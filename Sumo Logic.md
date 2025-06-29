@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                                  |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :------------------------------------------------------ |
+| [ ]  | EASY       | [Flood Fill](https://leetcode.com/problems/flood-fill)                           |     100.0 |     66.48% | Array, Depth-First Search, Breadth-First Search, Matrix |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)               |     100.0 |     41.08% | Array, Hash Table                                       |
+| [ ]  | MEDIUM     | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) |     100.0 |     51.02% | Array, String, Union Find, Graph                        |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)                        |     100.0 |     61.15% | String, Stack, Recursion                                |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)               |      66.0 |     41.08% | Array, Hash Table                                       |
+| [ ]  | EASY       | [Flood Fill](https://leetcode.com/problems/flood-fill)                           |      66.0 |     66.48% | Array, Depth-First Search, Breadth-First Search, Matrix |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)                        |      66.0 |     61.15% | String, Stack, Recursion                                |

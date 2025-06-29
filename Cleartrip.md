@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                                                                           |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :------------------------------------------------------------------------------- |
+| [ ]  | HARD       | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |     100.0 |     70.70% | Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                                             |     100.0 |     48.27% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization                |
+| [ ]  | MEDIUM     | [House Robber](https://leetcode.com/problems/house-robber)                                           |     100.0 |     52.31% | Array, Dynamic Programming                                                       |
+| [ ]  | MEDIUM     | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest)                                      |     100.0 |     58.27% | Array, Hash Table, Math, Greedy                                                  |

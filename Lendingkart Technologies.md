@@ -1,0 +1,3 @@
+| Done | Difficulty | Title                                      | Frequency | Acceptance | Topics         |
+| :--- | :--------- | :----------------------------------------- | --------: | ---------: | :------------- |
+| [ ]  | MEDIUM     | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) |     100.0 |     67.09% | String, Greedy |

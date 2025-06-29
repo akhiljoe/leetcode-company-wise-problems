@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                                  |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :---------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized                             |
+| [ ]  | MEDIUM     | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)             |     100.0 |     52.14% | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum |
+| [ ]  | MEDIUM     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)    |      89.8 |     57.79% | Array, Two Pointers, Greedy                                             |
+| [ ]  | MEDIUM     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)    |      89.7 |     57.79% | Array, Two Pointers, Greedy                                             |

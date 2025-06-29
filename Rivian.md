@@ -1,0 +1,17 @@
+| Done | Difficulty | Title                             | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :-------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                         |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | HARD       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)              |      89.9 |     56.77% | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort  |
+| [ ]  | EASY       | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)                |      89.9 |     57.42% | Array, Hash Table                                                   |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                   |     100.0 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                 |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)       |     100.0 |     64.43% |                                                                     |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)                |     100.0 |     58.09% | Two Pointers, String                                                |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                   |      88.3 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)       |      88.3 |     64.43% |                                                                     |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)                |      88.3 |     58.09% | Two Pointers, String                                                |
+| [ ]  | EASY       | [Rotate String](https://leetcode.com/problems/rotate-string)                     |      88.3 |     63.94% | String, String Matching                                             |
+| [ ]  | HARD       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)              |      88.3 |     56.77% | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort  |
+| [ ]  | MEDIUM     | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) |      88.3 |     86.21% | Array, Greedy, Matrix                                               |
+| [ ]  | EASY       | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)                |      88.3 |     57.42% | Array, Hash Table                                                   |
+| [ ]  | EASY       | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)                |     100.0 |     57.42% | Array, Hash Table                                                   |

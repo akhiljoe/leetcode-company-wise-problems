@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Maximal Square](https://leetcode.com/problems/maximal-square)               |     100.0 |     48.76% | Array, Dynamic Programming, Matrix                                  |
+| [ ]  | MEDIUM     | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) |      73.5 |     52.86% | Array, Binary Search, Sliding Window, Prefix Sum                    |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                      |      60.3 |     55.78% | Array, Hash Table                                                   |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)             |      60.3 |     64.87% | Hash Table, Math, String                                            |
+| [ ]  | MEDIUM     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island)           |      60.3 |     73.17% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                      |      60.2 |     55.78% | Array, Hash Table                                                   |
+| [ ]  | MEDIUM     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island)           |      60.2 |     73.17% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)             |      60.2 |     64.87% | Hash Table, Math, String                                            |

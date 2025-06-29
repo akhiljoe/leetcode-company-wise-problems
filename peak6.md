@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics             |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :----------------- |
+| [ ]  | MEDIUM     | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel) |     100.0 |     43.93% | Array, Simulation  |
+| [ ]  | MEDIUM     | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)        |     100.0 |     38.43% | Array, Enumeration |

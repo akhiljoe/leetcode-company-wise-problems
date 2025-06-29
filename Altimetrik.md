@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                                                |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :-------------------------------------------------------------------- |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                          |     100.0 |     55.78% | Array, Hash Table                                                     |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                             |     100.0 |     37.07% | Array, Two Pointers, Sorting                                          |
+| [ ]  | EASY       | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) |      89.0 |     75.54% | Array, Hash Table, Counting                                           |
+| [ ]  | MEDIUM     | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system)      |      89.0 |     44.92% | Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set |
+| [ ]  | EASY       | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) |     100.0 |     75.54% | Array, Hash Table, Counting                                           |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                          |      80.4 |     55.78% | Array, Hash Table                                                     |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                             |      74.3 |     37.07% | Array, Two Pointers, Sorting                                          |
+| [ ]  | MEDIUM     | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system)      |      65.6 |     44.92% | Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set |

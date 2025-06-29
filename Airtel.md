@@ -1,0 +1,14 @@
+| Done | Difficulty | Title                                                   | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :------------------------------------------------------ | --------: | ---------: | :---------------------------------------- |
+| [ ]  | MEDIUM     | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |     100.0 |     46.83% | Array, Binary Search                      |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)          |     100.0 |     36.94% | Hash Table, String, Sliding Window        |
+| [ ]  | MEDIUM     | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter)                 |      92.3 |     65.35% | Array, Greedy, Sorting, Prefix Sum        |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                                    |      81.6 |     77.13% | String, Dynamic Programming, Backtracking |
+| [ ]  | MEDIUM     | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)                               |      81.6 |     78.40% | Array, Bit Manipulation, Prefix Sum       |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                         |      81.6 |     55.26% | Array, Dynamic Programming                |
+| [ ]  | MEDIUM     | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter)                 |     100.0 |     65.35% | Array, Greedy, Sorting, Prefix Sum        |
+| [ ]  | MEDIUM     | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)                               |      97.9 |     78.40% | Array, Bit Manipulation, Prefix Sum       |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)          |      77.8 |     36.94% | Hash Table, String, Sliding Window        |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                                    |      62.5 |     77.13% | String, Dynamic Programming, Backtracking |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                         |      62.5 |     55.26% | Array, Dynamic Programming                |
+| [ ]  | MEDIUM     | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |      62.5 |     46.83% | Array, Binary Search                      |

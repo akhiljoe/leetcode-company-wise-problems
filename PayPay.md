@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                  |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :------------------------------------------------------ |
+| [ ]  | HARD       | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)               |     100.0 |     16.89% | Array, Binary Search, Binary Indexed Tree, Segment Tree |
+| [ ]  | MEDIUM     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                     |      89.7 |     51.61% | String                                                  |
+| [ ]  | EASY       | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) |     100.0 |     69.10% | String                                                  |
+| [ ]  | HARD       | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)               |      73.7 |     16.89% | Array, Binary Search, Binary Indexed Tree, Segment Tree |
+| [ ]  | MEDIUM     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                     |      64.9 |     51.61% | String                                                  |

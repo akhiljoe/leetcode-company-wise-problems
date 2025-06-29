@@ -1,0 +1,12 @@
+| Done | Difficulty | Title                                    | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | EASY       | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) |     100.0 |     71.59% | String, Stack                                                       |
+| [ ]  | EASY       | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                      |     100.0 |     43.03% | Two Pointers, String, Greedy                                        |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                        |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | EASY       | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                      |      88.2 |     43.03% | Two Pointers, String, Greedy                                        |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                           |      88.2 |     70.93% | Array, Hash Table, String, Sorting                                  |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                           |      87.8 |     70.93% | Array, Hash Table, String, Sorting                                  |
+| [ ]  | EASY       | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) |      87.8 |     71.59% | String, Stack                                                       |
+| [ ]  | MEDIUM     | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)                    |      78.1 |     55.23% | Array, Binary Search, Divide and Conquer, Matrix                    |
+| [ ]  | MEDIUM     | [Word Search](https://leetcode.com/problems/word-search)                              |      78.1 |     45.27% | Array, String, Backtracking, Depth-First Search, Matrix             |
+| [ ]  | EASY       | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)                |      78.1 |     73.22% | Array, Two Pointers, Sorting                                        |

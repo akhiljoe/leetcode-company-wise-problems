@@ -1,0 +1,15 @@
+| Done | Difficulty | Title                                                    | Frequency | Acceptance | Topics                                 |
+| :--- | :--------- | :------------------------------------------------------- | --------: | ---------: | :------------------------------------- |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                          |     100.0 |     55.26% | Array, Dynamic Programming             |
+| [ ]  | MEDIUM     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)                            |      83.7 |     52.20% | Hash Table, String, Sliding Window     |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                                  |      73.2 |     55.78% | Array, Hash Table                      |
+| [ ]  | HARD       | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)                      |      73.2 |     51.12% | Array, Dynamic Programming             |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                        |      64.8 |     42.32% | String, Stack                          |
+| [ ]  | EASY       | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          |      64.8 |     53.54% | Math, Dynamic Programming, Memoization |
+| [ ]  | EASY       | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) |      64.8 |     78.69% | Hash Table, String, Counting           |
+| [ ]  | EASY       | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) |      94.6 |     78.69% | Hash Table, String, Counting           |
+| [ ]  | MEDIUM     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)                            |      80.5 |     52.20% | Hash Table, String, Sliding Window     |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                                  |      70.0 |     55.78% | Array, Hash Table                      |
+| [ ]  | HARD       | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)                      |      70.0 |     51.12% | Array, Dynamic Programming             |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                        |      61.7 |     42.32% | String, Stack                          |
+| [ ]  | EASY       | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          |      61.7 |     53.54% | Math, Dynamic Programming, Memoization |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)           |     100.0 |     62.45% | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
+| [ ]  | MEDIUM     | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) |      90.1 |     81.64% | Array, Hash Table, Tree, Binary Tree                             |
+| [ ]  | MEDIUM     | [Group Employees of the Same Salary](https://leetcode.com/problems/group-employees-of-the-same-salary)   |      90.1 |     66.32% | Database                                                         |
+| [ ]  | MEDIUM     | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) |     100.0 |     81.64% | Array, Hash Table, Tree, Binary Tree                             |
+| [ ]  | MEDIUM     | [Group Employees of the Same Salary](https://leetcode.com/problems/group-employees-of-the-same-salary)   |     100.0 |     66.32% | Database                                                         |
+| [ ]  | MEDIUM     | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)           |      81.1 |     62.45% | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |

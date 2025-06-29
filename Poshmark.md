@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                             | Frequency | Acceptance | Topics                                         |
+| :--- | :--------- | :-------------------------------- | --------: | ---------: | :--------------------------------------------- |
+| [ ]  | MEDIUM     | [Market Analysis I](https://leetcode.com/problems/market-analysis-i)                 |     100.0 |     57.19% | Database                                       |
+| [ ]  | HARD       | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii)                |     100.0 |     57.84% | Database                                       |
+| [ ]  | MEDIUM     | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) |     100.0 |     65.76% | Array, Matrix, Simulation                      |
+| [ ]  | MEDIUM     | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)         |      66.4 |     64.04% | Array, Stack, Greedy, Sorting, Monotonic Stack |

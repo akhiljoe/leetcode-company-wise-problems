@@ -1,0 +1,11 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                          |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :------------------------------ |
+| [ ]  | MEDIUM     | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations) |     100.0 |     39.88% | Array, Hash Table, Math, Greedy |
+| [ ]  | EASY       | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                     |      79.0 |     71.60% | Array, String, Stack            |
+| [ ]  | MEDIUM     | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)    |      79.0 |     49.04% | Math, Greedy                    |
+| [ ]  | EASY       | [Count Largest Group](https://leetcode.com/problems/count-largest-group)                                    |      79.0 |     75.04% | Hash Table, Math                |
+| [ ]  | EASY       | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)            |      79.0 |     72.97% | Array, Greedy, Sorting          |
+| [ ]  | EASY       | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                     |      94.5 |     71.60% | Array, String, Stack            |
+| [ ]  | EASY       | [Count Largest Group](https://leetcode.com/problems/count-largest-group)                                    |      94.5 |     75.04% | Hash Table, Math                |
+| [ ]  | EASY       | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)            |      94.5 |     72.97% | Array, Greedy, Sorting          |
+| [ ]  | MEDIUM     | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)    |      94.5 |     49.04% | Math, Greedy                    |

@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                       | Frequency | Acceptance | Topics                                                               |
+| :--- | :--------- | :-------------------------- | --------: | ---------: | :------------------------------------------------------------------- |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)      |     100.0 |     47.60% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | HARD       | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)               |     100.0 |     63.91% | Array, Hash Table, Backtracking, Matrix                              |
+| [ ]  | HARD       | [Frog Jump](https://leetcode.com/problems/frog-jump)                   |     100.0 |     46.56% | Array, Dynamic Programming                                           |
+| [ ]  | HARD       | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) |     100.0 |     62.02% | Array, Dynamic Programming, Sorting                                  |
+| [ ]  | HARD       | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)               |      83.7 |     63.91% | Array, Hash Table, Backtracking, Matrix                              |
+| [ ]  | HARD       | [Frog Jump](https://leetcode.com/problems/frog-jump)                   |      83.7 |     46.56% | Array, Dynamic Programming                                           |
+| [ ]  | HARD       | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) |      83.7 |     62.02% | Array, Dynamic Programming, Sorting                                  |

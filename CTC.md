@@ -1,0 +1,3 @@
+| Done | Difficulty | Title                              | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :--------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | MEDIUM     | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |     100.0 |     69.50% | Array, Dynamic Programming, Greedy |

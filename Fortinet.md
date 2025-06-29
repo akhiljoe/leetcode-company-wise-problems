@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                                      |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :---------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit)     |     100.0 |     70.88% | Hash Table, String, Greedy, Heap (Priority Queue), Counting |
+| [ ]  | EASY       | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) |     100.0 |     58.94% | Database                                                    |
+| [ ]  | HARD       | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)     |     100.0 |     65.04% | Dynamic Programming                                         |
+| [ ]  | EASY       | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) |      88.6 |     58.94% | Database                                                    |
+| [ ]  | HARD       | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)     |      88.6 |     65.04% | Dynamic Programming                                         |
+| [ ]  | EASY       | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                    |      88.6 |     43.03% | Two Pointers, String, Greedy                                |

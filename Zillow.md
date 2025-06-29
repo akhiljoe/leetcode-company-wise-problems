@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                                   | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :------------------------------------------------------ | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                       |     100.0 |     42.32% | String, Stack                                                       |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                                       |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |     100.0 |     46.83% | Array, Binary Search                                                |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                                       |      89.3 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |      89.3 |     46.83% | Array, Binary Search                                                |

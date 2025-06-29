@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                 | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :---------------------------------------------------- | --------: | ---------: | :---------------------------------------- |
+| [ ]  | HARD       | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold) |     100.0 |     44.52% | Array, Stack, Union Find, Monotonic Stack |
+| [ ]  | MEDIUM     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)                          |     100.0 |     67.93% | Hash Table, String, Design, Trie          |

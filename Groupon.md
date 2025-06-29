@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)  |     100.0 |     82.07% | Array, Math, Recursion, Queue, Simulation                          |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)          |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized                        |
+| [ ]  | MEDIUM     | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls) |     100.0 |     29.96% | Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue) |
+| [ ]  | MEDIUM     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)                          |     100.0 |     41.50% | Array, Dynamic Programming, Greedy                                 |
+| [ ]  | MEDIUM     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)                          |      74.9 |     41.50% | Array, Dynamic Programming, Greedy                                 |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)          |      66.5 |     54.99% | Array, Hash Table, Math, Design, Randomized                        |
+| [ ]  | MEDIUM     | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)  |      66.5 |     82.07% | Array, Math, Recursion, Queue, Simulation                          |

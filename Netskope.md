@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                  | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :--------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |     100.0 |     71.68% | Two Pointers, String, Dynamic Programming                         |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)        |     100.0 |     49.40% | Array, Sorting                                                    |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)             |     100.0 |     48.27% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |

@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                             | Frequency | Acceptance | Topics                                      |
+| :--- | :--------- | :------------------------------------------------ | --------: | ---------: | :------------------------------------------ |
+| [ ]  | HARD       | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |     100.0 |     35.77% | Array, Hash Table, Math, Design, Randomized |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)                      |      93.4 |     54.99% | Array, Hash Table, Math, Design, Randomized |
+| [ ]  | MEDIUM     | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)                             |      84.1 |     76.83% | Array, Hash Table, String, Counting         |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)                      |      95.0 |     54.99% | Array, Hash Table, Math, Design, Randomized |
+| [ ]  | MEDIUM     | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)                             |      79.6 |     76.83% | Array, Hash Table, String, Counting         |

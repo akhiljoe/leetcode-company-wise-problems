@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                     | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :---------------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                       |     100.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) |      90.1 |     65.58% | String, Dynamic Programming, Stack                               |

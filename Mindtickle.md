@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                               | Frequency | Acceptance | Topics                                                |
+| :--- | :--------- | :-------------------------------------------------- | --------: | ---------: | :---------------------------------------------------- |
+| [ ]  | MEDIUM     | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)             |     100.0 |     72.13% | Array, Binary Search                                  |
+| [ ]  | HARD       | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score)                               |     100.0 |     39.99% | Array, Two Pointers, Dynamic Programming, Greedy      |
+| [ ]  | HARD       | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums)                        |     100.0 |     48.69% | Array, Divide and Conquer                             |
+| [ ]  | HARD       | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) |     100.0 |     44.44% | Array, Dynamic Programming, Bit Manipulation, Bitmask |
+| [ ]  | MEDIUM     | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)             |      64.6 |     72.13% | Array, Binary Search                                  |

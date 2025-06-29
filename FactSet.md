@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                       | Frequency | Acceptance | Topics                                 |
+| :--- | :--------- | :------------------------------------------ | --------: | ---------: | :------------------------------------- |
+| [ ]  | EASY       | [Happy Number](https://leetcode.com/problems/happy-number)                                |     100.0 |     58.07% | Hash Table, Math, Two Pointers         |
+| [ ]  | MEDIUM     | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) |     100.0 |     59.60% | String, Stack                          |
+| [ ]  | MEDIUM     | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)                    |     100.0 |     51.35% | String, Stack, Greedy, Monotonic Stack |
+| [ ]  | MEDIUM     | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) |     100.0 |     61.96% | String, Stack, Greedy, Monotonic Stack |
+| [ ]  | MEDIUM     | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)              |     100.0 |     39.12% | Array, Greedy                          |
+| [ ]  | EASY       | [Happy Number](https://leetcode.com/problems/happy-number)                                |      63.3 |     58.07% | Hash Table, Math, Two Pointers         |
+| [ ]  | MEDIUM     | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)              |      63.3 |     39.12% | Array, Greedy                          |

@@ -1,0 +1,12 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                                                |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :-------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)              |     100.0 |     61.15% | String, Stack, Recursion                                              |
+| [ ]  | EASY       | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled)    |     100.0 |     40.17% | Math, Simulation                                                      |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)             |      89.8 |     70.93% | Array, Hash Table, String, Sorting                                    |
+| [ ]  | MEDIUM     | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching)         |      89.8 |     63.78% | Array, Two Pointers, String, Trie, String Matching                    |
+| [ ]  | EASY       | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)    |      89.8 |     49.98% | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| [ ]  | MEDIUM     | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching)         |      89.4 |     63.78% | Array, Two Pointers, String, Trie, String Matching                    |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)             |      89.4 |     70.93% | Array, Hash Table, String, Sorting                                    |
+| [ ]  | EASY       | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)    |      89.4 |     49.98% | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) |      89.4 |     49.37% | Hash Table, String, Binary Search, Design                             |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)              |      89.4 |     61.15% | String, Stack, Recursion                                              |

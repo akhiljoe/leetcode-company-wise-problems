@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                    | Frequency | Acceptance | Topics                                           |
+| :--- | :--------- | :--------------------------------------- | --------: | ---------: | :----------------------------------------------- |
+| [ ]  | MEDIUM     | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                     |     100.0 |     60.30% | Array, Two Pointers, Greedy, Sorting             |
+| [ ]  | MEDIUM     | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) |     100.0 |     61.68% | Tree, Breadth-First Search, Binary Tree          |
+| [ ]  | MEDIUM     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)             |     100.0 |     67.78% | Array, Prefix Sum                                |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                           |     100.0 |     70.93% | Array, Hash Table, String, Sorting               |
+| [ ]  | HARD       | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)                 |     100.0 |     63.04% | Linked List, Recursion                           |
+| [ ]  | MEDIUM     | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)                 |     100.0 |     65.94% | Array, Binary Search, Sliding Window, Prefix Sum |

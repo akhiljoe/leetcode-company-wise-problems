@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                                                       |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :--------------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet) |     100.0 |     34.96% | Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum            |
+| [ ]  | MEDIUM     | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                         |      89.0 |     30.31% | Math                                                                         |
+| [ ]  | HARD       | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum)                 |      89.0 |     41.60% | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)              |      89.0 |     34.12% | Array, Hash Table, Sliding Window, Sorting                                   |
+| [ ]  | MEDIUM     | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                         |      88.8 |     30.31% | Math                                                                         |
+| [ ]  | HARD       | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum)                 |      88.8 |     41.60% | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)              |      88.8 |     34.12% | Array, Hash Table, Sliding Window, Sorting                                   |

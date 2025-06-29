@@ -1,0 +1,3 @@
+| Done | Difficulty | Title                    | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :----------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | HARD       | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula) |     100.0 |     42.55% | Array, Hash Table, String, Graph, Design, Topological Sort, Matrix |

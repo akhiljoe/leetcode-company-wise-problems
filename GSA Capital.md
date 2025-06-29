@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                 |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :----------------------------------------------------- |
+| [ ]  | MEDIUM     | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) |     100.0 |     43.11% | Array, Two Pointers, Heap (Priority Queue), Simulation |
+| [ ]  | MEDIUM     | [Maximal Square](https://leetcode.com/problems/maximal-square)               |      84.1 |     48.76% | Array, Dynamic Programming, Matrix                     |
+| [ ]  | MEDIUM     | [Maximal Square](https://leetcode.com/problems/maximal-square)               |      93.3 |     48.76% | Array, Dynamic Programming, Matrix                     |

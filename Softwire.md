@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :---------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                  |     100.0 |     35.85% | Two Pointers, String, Dynamic Programming |
+| [ ]  | EASY       | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string)               |     100.0 |     51.96% | Hash Table, String                        |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window        |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                  |      76.3 |     35.85% | Two Pointers, String, Dynamic Programming |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      68.4 |     36.94% | Hash Table, String, Sliding Window        |

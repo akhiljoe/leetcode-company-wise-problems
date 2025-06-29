@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                   | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :---------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Largest Number](https://leetcode.com/problems/largest-number)          |     100.0 |     41.28% | Array, String, Greedy, Sorting                                    |
+| [ ]  | MEDIUM     | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)          |     100.0 |     74.68% | Depth-First Search, Breadth-First Search, Graph                   |
+| [ ]  | MEDIUM     | [Decode Ways](https://leetcode.com/problems/decode-ways)             |     100.0 |     36.53% | String, Dynamic Programming                                       |
+| [ ]  | MEDIUM     | [01 Matrix](https://leetcode.com/problems/01-matrix)               |     100.0 |     51.49% | Array, Dynamic Programming, Breadth-First Search, Matrix          |
+| [ ]  | MEDIUM     | [Course Schedule](https://leetcode.com/problems/course-schedule)         |     100.0 |     49.24% | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
+| [ ]  | HARD       | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras)     |      89.5 |     47.20% | Dynamic Programming, Tree, Depth-First Search, Binary Tree        |
+| [ ]  | HARD       | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree) |      89.5 |     36.08% | Array, Tree, Graph, Topological Sort                              |

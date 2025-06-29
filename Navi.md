@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                     | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :---------------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) |     100.0 |     55.47% | Array, Binary Search                                             |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)            |      83.2 |     42.84% | Array, Binary Search                                             |
+| [ ]  | MEDIUM     | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs)  |      83.2 |     50.85% | Array, Binary Search, Dynamic Programming, Greedy, Sorting       |
+| [ ]  | MEDIUM     | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs)  |     100.0 |     50.85% | Array, Binary Search, Dynamic Programming, Greedy, Sorting       |
+| [ ]  | MEDIUM     | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) |      80.7 |     55.47% | Array, Binary Search                                             |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)            |      66.2 |     42.84% | Array, Binary Search                                             |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                       |      66.2 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |

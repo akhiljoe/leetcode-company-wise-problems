@@ -1,0 +1,25 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | EASY       | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)                    |     100.0 |     66.57% | String, Backtracking, Tree, Depth-First Search, Binary Tree       |
+| [ ]  | EASY       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                |     100.0 |     45.49% | String, Trie                                                      |
+| [ ]  | MEDIUM     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)               |     100.0 |     49.59% | Linked List                                                       |
+| [ ]  | MEDIUM     | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                      |      93.0 |     55.67% | Math, Dynamic Programming, Breadth-First Search                   |
+| [ ]  | MEDIUM     | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                      |      87.4 |     55.67% | Math, Dynamic Programming, Breadth-First Search                   |
+| [ ]  | MEDIUM     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)        |      80.9 |     52.20% | Hash Table, String, Sliding Window                                |
+| [ ]  | EASY       | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)   |      80.9 |     54.88% | Linked List                                                       |
+| [ ]  | MEDIUM     | [Permutation in String](https://leetcode.com/problems/permutation-in-string)                |      71.7 |     47.25% | Hash Table, Two Pointers, String, Sliding Window                  |
+| [ ]  | MEDIUM     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)               |      71.7 |     49.59% | Linked List                                                       |
+| [ ]  | MEDIUM     | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |      71.7 |     66.01% | Tree, Breadth-First Search, Binary Tree                           |
+| [ ]  | MEDIUM     | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)              |      71.7 |     48.28% | Array, Math, Binary Search, Prefix Sum, Randomized                |
+| [ ]  | EASY       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)               |      71.7 |     66.84% | Linked List, Recursion                                            |
+| [ ]  | MEDIUM     | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                      |      90.2 |     55.67% | Math, Dynamic Programming, Breadth-First Search                   |
+| [ ]  | MEDIUM     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)               |      86.9 |     49.59% | Linked List                                                       |
+| [ ]  | EASY       | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)                    |      83.0 |     66.57% | String, Backtracking, Tree, Depth-First Search, Binary Tree       |
+| [ ]  | EASY       | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)   |      78.2 |     54.88% | Linked List                                                       |
+| [ ]  | MEDIUM     | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)        |      78.2 |     52.20% | Hash Table, String, Sliding Window                                |
+| [ ]  | MEDIUM     | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |      63.2 |     66.01% | Tree, Breadth-First Search, Binary Tree                           |
+| [ ]  | MEDIUM     | [Permutation in String](https://leetcode.com/problems/permutation-in-string)                |      63.2 |     47.25% | Hash Table, Two Pointers, String, Sliding Window                  |
+| [ ]  | MEDIUM     | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)              |      63.2 |     48.28% | Array, Math, Binary Search, Prefix Sum, Randomized                |
+| [ ]  | EASY       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)               |      63.2 |     66.84% | Linked List, Recursion                                            |
+| [ ]  | EASY       | [Missing Number](https://leetcode.com/problems/missing-number)                       |      63.2 |     70.07% | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+| [ ]  | MEDIUM     | [Perfect Squares](https://leetcode.com/problems/perfect-squares)                      |     100.0 |     55.67% | Math, Dynamic Programming, Breadth-First Search                   |

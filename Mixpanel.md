@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |     100.0 |     65.23% | Stack, Tree, Depth-First Search, Design, Queue, Iterator            |
+| [ ]  | MEDIUM     | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)  |     100.0 |     72.68% | Array, Two Pointers, Line Sweep                                     |
+| [ ]  | MEDIUM     | [Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation)     |      84.3 |     48.17% | Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set |

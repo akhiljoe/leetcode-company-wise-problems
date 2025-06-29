@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                      |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :---------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Clone Graph](https://leetcode.com/problems/clone-graph)                  |     100.0 |     62.39% | Hash Table, Depth-First Search, Breadth-First Search, Graph |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized                 |
+| [ ]  | HARD       | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system) |      90.1 |     48.17% | Hash Table, String, Design, Trie, Sorting                   |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                    |      90.1 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List         |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                    |      89.5 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List         |
+| [ ]  | HARD       | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system) |      89.5 |     48.17% | Hash Table, String, Design, Trie, Sorting                   |
+| [ ]  | MEDIUM     | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)        |      89.5 |     75.79% |                                                             |

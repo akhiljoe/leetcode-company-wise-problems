@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                            | Frequency | Acceptance | Topics                                                      |
+| :--- | :--------- | :----------------------------------------------- | --------: | ---------: | :---------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)   |     100.0 |     64.67% | Depth-First Search, Breadth-First Search, Union Find, Graph |
+| [ ]  | HARD       | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero) |      82.9 |     73.24% | Dynamic Programming, Bit Manipulation, Memoization          |
+| [ ]  | MEDIUM     | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations)        |      68.4 |     63.79% | Array, Greedy, Heap (Priority Queue)                        |
+| [ ]  | MEDIUM     | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)                                  |      68.4 |     58.65% | Array, Depth-First Search, Breadth-First Search, Matrix     |
+| [ ]  | MEDIUM     | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations)        |     100.0 |     63.79% | Array, Greedy, Heap (Priority Queue)                        |
+| [ ]  | MEDIUM     | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)                                  |     100.0 |     58.65% | Array, Depth-First Search, Breadth-First Search, Matrix     |
+| [ ]  | MEDIUM     | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)   |      97.7 |     64.67% | Depth-First Search, Breadth-First Search, Union Find, Graph |
+| [ ]  | HARD       | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero) |      80.2 |     73.24% | Dynamic Programming, Bit Manipulation, Memoization          |

@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window |
+| [ ]  | EASY       | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string)          |      88.8 |     69.10% | String                             |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |      88.8 |     55.26% | Array, Dynamic Programming         |
+| [ ]  | EASY       | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string)          |     100.0 |     69.10% | String                             |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      74.2 |     36.94% | Hash Table, String, Sliding Window |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |      65.5 |     55.26% | Array, Dynamic Programming         |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      65.5 |     42.32% | String, Stack                      |

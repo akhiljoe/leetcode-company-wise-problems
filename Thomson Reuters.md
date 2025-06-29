@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                   |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :----------------------- |
+| [ ]  | MEDIUM     | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order)           |     100.0 |     50.54% | String, Sliding Window   |
+| [ ]  | EASY       | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) |      89.9 |     77.71% | String, Greedy           |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                   |      89.9 |     64.87% | Hash Table, Math, String |
+| [ ]  | EASY       | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) |      98.1 |     77.71% | String, Greedy           |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                   |      65.3 |     64.87% | Hash Table, Math, String |

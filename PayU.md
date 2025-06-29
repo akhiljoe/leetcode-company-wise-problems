@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | EASY       | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)         |     100.0 |     74.89% | Math, Simulation                   |
+| [ ]  | MEDIUM     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |     100.0 |     57.21% | Hash Table, String, Sliding Window |
+| [ ]  | MEDIUM     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |      66.6 |     57.21% | Hash Table, String, Sliding Window |

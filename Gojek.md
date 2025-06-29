@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                            | Frequency | Acceptance | Topics                                                               |
+| :--- | :--------- | :----------------------------------------------- | --------: | ---------: | :------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)                |     100.0 |     70.60% | Tree, Breadth-First Search, Binary Tree                              |
+| [ ]  | MEDIUM     | [Simplify Path](https://leetcode.com/problems/simplify-path)                                    |     100.0 |     47.86% | String, Stack                                                        |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)                           |     100.0 |     47.61% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | MEDIUM     | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) |      89.9 |     86.31% | Array, Hash Table                                                    |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                             |      89.9 |     37.08% | Array, Two Pointers, Sorting                                         |

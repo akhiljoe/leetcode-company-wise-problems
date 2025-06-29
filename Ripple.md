@@ -1,0 +1,22 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)          |     100.0 |     49.07% | Array, Binary Search                                                |
+| [ ]  | HARD       | [Basic Calculator](https://leetcode.com/problems/basic-calculator)             |     100.0 |     45.59% | Math, String, Stack, Recursion                                      |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)              |     100.0 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)               |     100.0 |     70.93% | Array, Hash Table, String, Sorting                                  |
+| [ ]  | EASY       | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)     |     100.0 |     84.59% | Database                                                            |
+| [ ]  | MEDIUM     | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)         |     100.0 |     54.93% | Hash Table, Linked List, Two Pointers                               |
+| [ ]  | MEDIUM     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |     100.0 |     67.78% | Array, Prefix Sum                                                   |
+| [ ]  | MEDIUM     | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)        |     100.0 |     45.48% | Array, Hash Table, Prefix Sum                                       |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                    |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | MEDIUM     | [Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation)     |     100.0 |     48.16% | Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)             |     100.0 |     52.10% | Array, Divide and Conquer, Dynamic Programming                      |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)           |     100.0 |     58.09% | Two Pointers, String                                                |
+| [ ]  | EASY       | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)     |      88.3 |     84.59% | Database                                                            |
+| [ ]  | MEDIUM     | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)         |      88.3 |     54.93% | Hash Table, Linked List, Two Pointers                               |
+| [ ]  | MEDIUM     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |      88.3 |     67.78% | Array, Prefix Sum                                                   |
+| [ ]  | MEDIUM     | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)        |      88.3 |     45.48% | Array, Hash Table, Prefix Sum                                       |
+| [ ]  | MEDIUM     | [Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation)     |      88.3 |     48.16% | Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)             |      88.3 |     52.10% | Array, Divide and Conquer, Dynamic Programming                      |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)          |      88.3 |     49.07% | Array, Binary Search                                                |
+| [ ]  | HARD       | [Basic Calculator](https://leetcode.com/problems/basic-calculator)             |      88.3 |     45.59% | Math, String, Stack, Recursion                                      |

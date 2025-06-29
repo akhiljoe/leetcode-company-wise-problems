@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                        | Frequency | Acceptance | Topics                                             |
+| :--- | :--------- | :------------------------------------------- | --------: | ---------: | :------------------------------------------------- |
+| [ ]  | HARD       | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) |     100.0 |     50.57% | Array, Breadth-First Search, Matrix                |
+| [ ]  | MEDIUM     | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition)     |     100.0 |     50.41% | Array, Backtracking, Bit Manipulation, Enumeration |

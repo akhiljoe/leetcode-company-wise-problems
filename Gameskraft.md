@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                       | Frequency | Acceptance | Topics                                                               |
+| :--- | :--------- | :------------------------------------------ | --------: | ---------: | :------------------------------------------------------------------- |
+| [ ]  | HARD       | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals) |     100.0 |     29.09% | Dynamic Programming, Tree, Depth-First Search                        |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                                         |      65.9 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                        |
+| [ ]  | HARD       | [LFU Cache](https://leetcode.com/problems/lfu-cache)                                   |      65.9 |     46.61% | Hash Table, Linked List, Design, Doubly-Linked List                  |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)                      |      65.9 |     47.60% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                                         |      65.7 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                        |
+| [ ]  | HARD       | [LFU Cache](https://leetcode.com/problems/lfu-cache)                                   |      65.7 |     46.61% | Hash Table, Linked List, Design, Doubly-Linked List                  |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)                      |      65.7 |     47.60% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |

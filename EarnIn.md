@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                         | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :---------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)               |     100.0 |     46.23% | Linked List, Math, Recursion                                        |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |     100.0 |     35.85% | Two Pointers, String, Dynamic Programming                           |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)             |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                       |     100.0 |     55.78% | Array, Hash Table                                                   |

@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                                               |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Reorganize String](https://leetcode.com/problems/reorganize-string)                       |     100.0 |     56.20% | Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)          |     100.0 |     42.84% | Array, Binary Search                                                 |
+| [ ]  | EASY       | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) |     100.0 |     52.38% | Array, Greedy, Sorting                                               |
+| [ ]  | MEDIUM     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)          |     100.0 |     57.81% | Array, Binary Search, Dynamic Programming                            |
+| [ ]  | MEDIUM     | [Reorganize String](https://leetcode.com/problems/reorganize-string)                       |      67.0 |     56.20% | Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)          |      67.0 |     42.84% | Array, Binary Search                                                 |
+| [ ]  | MEDIUM     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)          |      67.0 |     57.81% | Array, Binary Search, Dynamic Programming                            |

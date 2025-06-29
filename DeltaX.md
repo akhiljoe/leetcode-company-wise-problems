@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                             | Frequency | Acceptance | Topics                                                    |
+| :--- | :--------- | :-------------------------------- | --------: | ---------: | :-------------------------------------------------------- |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                  |     100.0 |     64.87% | Hash Table, Math, String                                  |
+| [ ]  | MEDIUM     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)      |      70.5 |     47.04% | Array, Hash Table, Union Find                             |
+| [ ]  | MEDIUM     | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) |      70.5 |     72.35% | Math, String, Dynamic Programming, Recursion, Memoization |
+| [ ]  | MEDIUM     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)      |      68.6 |     47.04% | Array, Hash Table, Union Find                             |
+| [ ]  | MEDIUM     | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) |      68.6 |     72.35% | Math, String, Dynamic Programming, Recursion, Memoization |

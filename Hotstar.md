@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)            |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | HARD       | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts)            |     100.0 |     40.70% | Array, Math                                                         |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)            |      66.6 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | HARD       | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |      66.6 |     41.23% | Dynamic Programming, Tree, Depth-First Search, Binary Tree          |

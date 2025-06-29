@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | EASY       | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)  |     100.0 |     77.92% | Array, Hash Table, Counting                                       |
+| [ ]  | MEDIUM     | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element) |      89.4 |     44.10% | Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum |

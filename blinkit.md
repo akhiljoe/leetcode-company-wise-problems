@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                                          |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :-------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city)          |     100.0 |     27.39% | Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue) |
+| [ ]  | MEDIUM     | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) |     100.0 |     59.21% | Array, Binary Search                                            |

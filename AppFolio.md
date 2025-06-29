@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)                       |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized         |
+| [ ]  | HARD       | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) |     100.0 |     45.61% | Array, Breadth-First Search, Matrix                 |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)                                |     100.0 |     76.61% | Hash Table, Design, Data Stream                     |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                          |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |

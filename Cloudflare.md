@@ -1,0 +1,28 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | HARD       | [Reaching Points](https://leetcode.com/problems/reaching-points)                         |     100.0 |     33.65% | Math                                                                |
+| [ ]  | MEDIUM     | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue)                   |      92.4 |     52.64% | Array, Linked List, Design, Queue                                   |
+| [ ]  | MEDIUM     | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |      92.4 |     80.13% | Array, Stack, Design                                                |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                    |      87.4 |     37.07% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [4Sum](https://leetcode.com/problems/4sum)                                    |      87.4 |     38.22% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                      |      71.7 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |
+| [ ]  | MEDIUM     | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue)                   |     100.0 |     52.64% | Array, Linked List, Design, Queue                                   |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                    |      93.9 |     37.07% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [4Sum](https://leetcode.com/problems/4sum)                                    |      93.9 |     38.22% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |      70.4 |     80.13% | Array, Stack, Design                                                |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                      |      70.4 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                       |      70.4 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Game of Life](https://leetcode.com/problems/game-of-life)                            |      61.7 |     71.42% | Array, Matrix, Simulation                                           |
+| [ ]  | EASY       | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)                               |      61.7 |     74.37% | Math, String, Simulation                                            |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                               |      61.7 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                    |      94.4 |     37.07% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [4Sum](https://leetcode.com/problems/4sum)                                    |      94.4 |     38.22% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |      84.3 |     80.13% | Array, Stack, Design                                                |
+| [ ]  | HARD       | [Reaching Points](https://leetcode.com/problems/reaching-points)                         |      84.3 |     33.65% | Math                                                                |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                      |      74.5 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                       |      69.9 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                               |      63.9 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | MEDIUM     | [Game of Life](https://leetcode.com/problems/game-of-life)                            |      55.5 |     71.42% | Array, Matrix, Simulation                                           |
+| [ ]  | EASY       | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)                               |      55.5 |     74.37% | Math, String, Simulation                                            |
+| [ ]  | MEDIUM     | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) |      76.6 |     80.13% | Array, Stack, Design                                                |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                      |      76.6 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |

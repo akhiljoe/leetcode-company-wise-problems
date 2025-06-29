@@ -1,0 +1,3 @@
+| Done | Difficulty | Title             | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :---------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands) |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |

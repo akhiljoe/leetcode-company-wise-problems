@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | HARD       | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)       |     100.0 |     54.42% | Array, Binary Search, Dynamic Programming, Sorting                 |
+| [ ]  | MEDIUM     | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)           |     100.0 |     68.52% | Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue) |
+| [ ]  | MEDIUM     | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element) |     100.0 |     44.10% | Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum  |
+| [ ]  | MEDIUM     | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps)                  |     100.0 |     50.83% | Array, Dynamic Programming, Greedy                                 |

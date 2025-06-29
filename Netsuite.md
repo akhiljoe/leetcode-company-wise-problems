@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                   | Frequency | Acceptance | Topics         |
+| :--- | :--------- | :------------------------------------------------------ | --------: | ---------: | :------------- |
+| [ ]  | EASY       | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) |     100.0 |     63.44% | Array, Sorting |
+| [ ]  | EASY       | [Employee Bonus](https://leetcode.com/problems/employee-bonus)                                          |     100.0 |     77.07% | Database       |

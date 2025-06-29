@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                            | Frequency | Acceptance | Topics                            |
+| :--- | :--------- | :----------------------------------------------- | --------: | ---------: | :-------------------------------- |
+| [ ]  | MEDIUM     | [Active Users](https://leetcode.com/problems/active-users)                                     |     100.0 |     36.60% | Database                          |
+| [ ]  | MEDIUM     | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies) |     100.0 |     59.71% | Array, Hash Table, Sliding Window |

@@ -1,0 +1,18 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                                               |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)    |     100.0 |     60.54% | Hash Table, Linked List                                              |
+| [ ]  | MEDIUM     | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)  |     100.0 |     50.37% | Array, Greedy, Heap (Priority Queue)                                 |
+| [ ]  | MEDIUM     | [House Robber III](https://leetcode.com/problems/house-robber-iii)                 |     100.0 |     54.95% | Dynamic Programming, Tree, Depth-First Search, Binary Tree           |
+| [ ]  | MEDIUM     | [4Sum](https://leetcode.com/problems/4sum)                             |     100.0 |     38.22% | Array, Two Pointers, Sorting                                         |
+| [ ]  | MEDIUM     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)        |      87.8 |     57.78% | Array, Two Pointers, Greedy                                          |
+| [ ]  | HARD       | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) |      87.8 |     54.42% | Array, Binary Search, Dynamic Programming, Sorting                   |
+| [ ]  | HARD       | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)   |      87.8 |     47.38% | Array, Stack, Monotonic Stack                                        |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)           |      87.8 |     47.60% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)              |      87.8 |     49.07% | Array, Binary Search                                                 |
+| [ ]  | MEDIUM     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)        |      87.4 |     57.78% | Array, Two Pointers, Greedy                                          |
+| [ ]  | HARD       | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)   |      87.4 |     47.38% | Array, Stack, Monotonic Stack                                        |
+| [ ]  | HARD       | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) |      87.4 |     54.42% | Array, Binary Search, Dynamic Programming, Sorting                   |
+| [ ]  | HARD       | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)           |      87.4 |     47.60% | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)              |      87.4 |     49.07% | Array, Binary Search                                                 |
+| [ ]  | MEDIUM     | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)    |      87.4 |     60.54% | Hash Table, Linked List                                              |
+| [ ]  | MEDIUM     | [House Robber III](https://leetcode.com/problems/house-robber-iii)                 |      87.4 |     54.95% | Dynamic Programming, Tree, Depth-First Search, Binary Tree           |

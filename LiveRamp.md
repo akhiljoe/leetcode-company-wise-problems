@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)         |     100.0 |     35.85% | Two Pointers, String, Dynamic Programming                         |
+| [ ]  | MEDIUM     | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits)         |     100.0 |     35.53% | Array, String, Backtracking, Enumeration                          |
+| [ ]  | EASY       | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)        |     100.0 |     57.31% | Array, Hash Table, Sliding Window, Sorting, Counting              |
+| [ ]  | MEDIUM     | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) |     100.0 |     37.44% | Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack      |
+| [ ]  | EASY       | [Distribute Candies](https://leetcode.com/problems/distribute-candies)                    |     100.0 |     69.60% | Array, Hash Table                                                 |
+| [ ]  | MEDIUM     | [Course Schedule](https://leetcode.com/problems/course-schedule)                       |     100.0 |     49.23% | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)         |      65.1 |     35.85% | Two Pointers, String, Dynamic Programming                         |
+| [ ]  | MEDIUM     | [Course Schedule](https://leetcode.com/problems/course-schedule)                       |      65.1 |     49.23% | Depth-First Search, Breadth-First Search, Graph, Topological Sort |

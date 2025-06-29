@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | HARD       | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)                      |     100.0 |     36.32% | String, Dynamic Programming, Stack |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      89.1 |     42.33% | String, Stack                      |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.1 |     36.94% | Hash Table, String, Sliding Window |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      89.0 |     42.33% | String, Stack                      |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.0 |     36.94% | Hash Table, String, Sliding Window |
+| [ ]  | EASY       | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)                              |      89.0 |     28.90% | Array, Greedy                      |

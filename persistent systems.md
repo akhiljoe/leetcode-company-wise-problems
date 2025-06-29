@@ -1,0 +1,20 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                         |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------------------- |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |     100.0 |     55.78% | Array, Hash Table                              |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window             |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                  |     100.0 |     35.85% | Two Pointers, String, Dynamic Programming      |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |     100.0 |     70.93% | Array, Hash Table, String, Sorting             |
+| [ ]  | EASY       | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                              |      87.3 |     59.22% | Math                                           |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      77.2 |     42.32% | String, Stack                                  |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                  |      77.2 |     66.66% | Hash Table, String, Sorting                    |
+| [ ]  | EASY       | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)            |      77.2 |     87.58% | Bit Manipulation                               |
+| [ ]  | EASY       | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)            |     100.0 |     87.58% | Bit Manipulation                               |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |      84.6 |     70.93% | Array, Hash Table, String, Sorting             |
+| [ ]  | EASY       | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                              |      73.2 |     59.22% | Math                                           |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      73.2 |     42.32% | String, Stack                                  |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                  |      64.2 |     66.66% | Hash Table, String, Sorting                    |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                               |      64.2 |     52.10% | Array, Divide and Conquer, Dynamic Programming |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      64.2 |     55.78% | Array, Hash Table                              |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      64.2 |     36.94% | Hash Table, String, Sliding Window             |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                  |      64.2 |     35.85% | Two Pointers, String, Dynamic Programming      |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                             |      64.2 |     52.92% | Array, Two Pointers, Sorting                   |

@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | EASY       | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) |     100.0 |     51.35% | Math, String                                        |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                        |      87.4 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  |      87.4 |     55.26% | Array, Dynamic Programming                          |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                        |      87.1 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  |      87.1 |     55.26% | Array, Dynamic Programming                          |

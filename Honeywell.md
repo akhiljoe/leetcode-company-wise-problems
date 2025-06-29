@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                     |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :----------------------------------------- |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)             |     100.0 |     34.12% | Array, Hash Table, Sliding Window, Sorting |
+| [ ]  | EASY       | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) |      89.6 |     54.23% | Array                                      |
+| [ ]  | MEDIUM     | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum)                     |      89.6 |     65.91% | Array, Greedy, Matrix                      |
+| [ ]  | EASY       | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) |     100.0 |     54.23% | Array                                      |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)             |      75.5 |     34.12% | Array, Hash Table, Sliding Window, Sorting |
+| [ ]  | MEDIUM     | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum)                     |      67.3 |     65.91% | Array, Greedy, Matrix                      |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                |      67.3 |     55.78% | Array, Hash Table                          |

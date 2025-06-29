@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) |     100.0 |     62.45% | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
+| [ ]  | HARD       | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit)    |      73.8 |     35.72% | Array, Union Find, Matrix                                        |
+| [ ]  | HARD       | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit)    |      73.5 |     35.72% | Array, Union Find, Matrix                                        |

@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                     |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :------------------------- |
+| [ ]  | EASY       | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) |     100.0 |     68.43% | String, Sliding Window     |
+| [ ]  | MEDIUM     | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)       |      91.0 |     51.16% | Array, Greedy              |
+| [ ]  | EASY       | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                                 |      84.7 |     55.57% | Hash Table, String, Greedy |
+| [ ]  | EASY       | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                                 |      84.5 |     55.57% | Hash Table, String, Greedy |

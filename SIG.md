@@ -1,0 +1,14 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                                 |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :--------------------------------------------------------------------- |
+| [ ]  | HARD       | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)         |     100.0 |     16.89% | Array, Binary Search, Binary Indexed Tree, Segment Tree                |
+| [ ]  | MEDIUM     | [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks)          |     100.0 |     38.62% | Array, Hash Table, Enumeration                                         |
+| [ ]  | MEDIUM     | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)     |     100.0 |     34.38% | Tree, Depth-First Search, Binary Search Tree, Binary Tree              |
+| [ ]  | HARD       | [Text Justification](https://leetcode.com/problems/text-justification)              |      92.5 |     48.15% | Array, String, Simulation                                              |
+| [ ]  | MEDIUM     | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |      71.9 |     67.98% | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| [ ]  | EASY       | [Add Binary](https://leetcode.com/problems/add-binary)                      |      71.9 |     55.68% | Math, String, Bit Manipulation, Simulation                             |
+| [ ]  | HARD       | [Text Justification](https://leetcode.com/problems/text-justification)              |      92.2 |     48.15% | Array, String, Simulation                                              |
+| [ ]  | MEDIUM     | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |      71.1 |     67.98% | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| [ ]  | EASY       | [Add Binary](https://leetcode.com/problems/add-binary)                      |      71.1 |     55.68% | Math, String, Bit Manipulation, Simulation                             |
+| [ ]  | MEDIUM     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                   |      71.1 |     53.94% | Array, Matrix, Simulation                                              |
+| [ ]  | HARD       | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries)         |      71.1 |     16.89% | Array, Binary Search, Binary Indexed Tree, Segment Tree                |
+| [ ]  | MEDIUM     | [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks)          |      71.1 |     38.62% | Array, Hash Table, Enumeration                                         |

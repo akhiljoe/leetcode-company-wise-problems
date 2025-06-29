@@ -1,0 +1,21 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)             |     100.0 |     69.50% | Array, Dynamic Programming, Greedy                  |
+| [ ]  | EASY       | [Happy Number](https://leetcode.com/problems/happy-number)                                   |     100.0 |     58.07% | Hash Table, Math, Two Pointers                      |
+| [ ]  | MEDIUM     | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)                              |     100.0 |     63.17% | Array, Matrix, Simulation                           |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |     100.0 |     42.32% | String, Stack                                       |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                               |     100.0 |     52.10% | Array, Divide and Conquer, Dynamic Programming      |
+| [ ]  | MEDIUM     | [Min Stack](https://leetcode.com/problems/min-stack)                                      |     100.0 |     56.45% | Stack, Design                                       |
+| [ ]  | EASY       | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)                              |     100.0 |     28.90% | Array, Greedy                                       |
+| [ ]  | MEDIUM     | [Next Permutation](https://leetcode.com/problems/next-permutation)                               |     100.0 |     43.06% | Array, Two Pointers                                 |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.0 |     36.94% | Hash Table, String, Sliding Window                  |
+| [ ]  | HARD       | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator)     |      89.0 |     64.10% | Graph, Design, Heap (Priority Queue), Shortest Path |
+| [ ]  | MEDIUM     | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)                              |      92.4 |     63.17% | Array, Matrix, Simulation                           |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      92.4 |     42.32% | String, Stack                                       |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                               |      92.4 |     52.10% | Array, Divide and Conquer, Dynamic Programming      |
+| [ ]  | MEDIUM     | [Min Stack](https://leetcode.com/problems/min-stack)                                      |      92.4 |     56.45% | Stack, Design                                       |
+| [ ]  | EASY       | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)                              |      92.4 |     28.90% | Array, Greedy                                       |
+| [ ]  | MEDIUM     | [Next Permutation](https://leetcode.com/problems/next-permutation)                               |      92.4 |     43.06% | Array, Two Pointers                                 |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      81.6 |     36.94% | Hash Table, String, Sliding Window                  |
+| [ ]  | HARD       | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator)     |      81.6 |     64.10% | Graph, Design, Heap (Priority Queue), Shortest Path |
+| [ ]  | MEDIUM     | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)             |      81.6 |     69.50% | Array, Dynamic Programming, Greedy                  |

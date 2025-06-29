@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                             | Frequency | Acceptance | Topics                       |
+| :--- | :--------- | :------------------------------------------------ | --------: | ---------: | :--------------------------- |
+| [ ]  | MEDIUM     | [Decode Ways](https://leetcode.com/problems/decode-ways)                                       |     100.0 |     36.53% | String, Dynamic Programming  |
+| [ ]  | EASY       | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal) |     100.0 |     66.78% | Hash Table, String, Counting |
+| [ ]  | MEDIUM     | [Decode Ways](https://leetcode.com/problems/decode-ways)                                       |      68.5 |     36.53% | String, Dynamic Programming  |

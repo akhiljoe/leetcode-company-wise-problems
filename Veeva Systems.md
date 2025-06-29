@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :---------------------------------------- |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                           |     100.0 |     77.13% | String, Dynamic Programming, Backtracking |
+| [ ]  | MEDIUM     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                   |     100.0 |     62.28% | Array, Hash Table, Matrix                 |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |     100.0 |     70.93% | Array, Hash Table, String, Sorting        |
+| [ ]  | MEDIUM     | [Min Stack](https://leetcode.com/problems/min-stack)                                      |     100.0 |     56.45% | Stack, Design                             |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                           |      89.0 |     77.13% | String, Dynamic Programming, Backtracking |
+| [ ]  | MEDIUM     | [Min Stack](https://leetcode.com/problems/min-stack)                                      |      89.0 |     56.45% | Stack, Design                             |
+| [ ]  | MEDIUM     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                   |      89.0 |     62.28% | Array, Hash Table, Matrix                 |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.0 |     36.94% | Hash Table, String, Sliding Window        |

@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                   | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :---------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Champagne Tower](https://leetcode.com/problems/champagne-tower)         |     100.0 |     58.28% | Dynamic Programming                                              |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)     |      88.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders)      |      78.5 |     47.80% | Array, Breadth-First Search, Matrix                              |
+| [ ]  | MEDIUM     | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index) |      78.5 |     36.65% | String, Stack                                                    |
+| [ ]  | MEDIUM     | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index) |     100.0 |     36.65% | String, Stack                                                    |
+| [ ]  | MEDIUM     | [Champagne Tower](https://leetcode.com/problems/champagne-tower)         |      85.3 |     58.28% | Dynamic Programming                                              |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)     |      74.6 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders)      |      66.0 |     47.80% | Array, Breadth-First Search, Matrix                              |

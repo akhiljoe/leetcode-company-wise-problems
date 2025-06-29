@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics   |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :------- |
+| [ ]  | EASY       | [The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount) |     100.0 |     50.62% | Database |
+| [ ]  | EASY       | [The Users That Are Eligible for Discount](https://leetcode.com/problems/the-users-that-are-eligible-for-discount)           |     100.0 |     50.82% | Database |

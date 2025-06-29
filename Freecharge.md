@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                  |
+| [ ]  | MEDIUM     | [Gas Station](https://leetcode.com/problems/gas-station)                                    |     100.0 |     46.38% | Array, Greedy                                       |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                      |     100.0 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.1 |     36.94% | Hash Table, String, Sliding Window                  |

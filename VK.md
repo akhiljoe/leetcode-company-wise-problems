@@ -1,0 +1,15 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                                     |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :----------------------------------------- |
+| [ ]  | EASY       | [Summary Ranges](https://leetcode.com/problems/summary-ranges)                                     |     100.0 |     53.02% | Array                                      |
+| [ ]  | MEDIUM     | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)                |      89.9 |     48.99% | Array                                      |
+| [ ]  | MEDIUM     | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) |      89.9 |     69.24% | Array, Dynamic Programming, Sliding Window |
+| [ ]  | EASY       | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                        |     100.0 |     62.80% | Array, Two Pointers                        |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                  |     100.0 |     42.33% | String, Stack                              |
+| [ ]  | MEDIUM     | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)                |     100.0 |     48.99% | Array                                      |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                 |      92.6 |     52.92% | Array, Two Pointers, Sorting               |
+| [ ]  | EASY       | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                        |      95.6 |     62.80% | Array, Two Pointers                        |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                  |      90.2 |     42.33% | String, Stack                              |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                 |      83.2 |     52.92% | Array, Two Pointers, Sorting               |
+| [ ]  | EASY       | [Summary Ranges](https://leetcode.com/problems/summary-ranges)                                     |      83.2 |     53.02% | Array                                      |
+| [ ]  | EASY       | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                   |      73.3 |     50.97% | Two Pointers, String                       |
+| [ ]  | MEDIUM     | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) |      73.3 |     69.24% | Array, Dynamic Programming, Sliding Window |

@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                         | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :---------------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager) |     100.0 |     57.87% | Hash Table, Linked List, Design, Doubly-Linked List               |
+| [ ]  | MEDIUM     | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)         |      78.9 |     43.87% | Database                                                          |
+| [ ]  | EASY       | [Missing Number](https://leetcode.com/problems/missing-number)                |      78.9 |     70.07% | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |

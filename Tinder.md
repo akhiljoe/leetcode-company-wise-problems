@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                                            |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :-------------------------------------------------------------------------------- |
+| [ ]  | HARD       | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)    |     100.0 |     53.28% | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream                 |
+| [ ]  | EASY       | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) |      83.6 |     59.85% | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
+| [ ]  | EASY       | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) |      88.2 |     59.85% | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |

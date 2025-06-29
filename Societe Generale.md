@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                                         | Frequency | Acceptance | Topics                     |
+| :--- | :--------- | :------------------------------------------------------------ | --------: | ---------: | :------------------------- |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                               |     100.0 |     55.26% | Array, Dynamic Programming |
+| [ ]  | MEDIUM     | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating) |     100.0 |     43.46% | String, Greedy             |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                               |      66.3 |     55.26% | Array, Dynamic Programming |

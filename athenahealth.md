@@ -1,0 +1,22 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :---------------------------------------- |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                |     100.0 |     49.40% | Array, Sorting                            |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |     100.0 |     55.26% | Array, Dynamic Programming                |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |     100.0 |     70.93% | Array, Hash Table, String, Sorting        |
+| [ ]  | MEDIUM     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)                                |      88.5 |     43.15% | Array, Dynamic Programming, Matrix        |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                             |      88.5 |     52.92% | Array, Two Pointers, Sorting              |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      88.5 |     55.78% | Array, Hash Table                         |
+| [ ]  | EASY       | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers)                   |      88.5 |     77.50% | Database                                  |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)                         |      88.5 |     41.08% | Array, Hash Table                         |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      88.5 |     36.94% | Hash Table, String, Sliding Window        |
+| [ ]  | EASY       | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers)                   |     100.0 |     77.50% | Database                                  |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |      79.6 |     70.93% | Array, Hash Table, String, Sorting        |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |      73.2 |     55.26% | Array, Dynamic Programming                |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                |      73.2 |     49.40% | Array, Sorting                            |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      64.2 |     55.78% | Array, Hash Table                         |
+| [ ]  | MEDIUM     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)                                |      64.2 |     43.15% | Array, Dynamic Programming, Matrix        |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                             |      64.2 |     52.92% | Array, Two Pointers, Sorting              |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)                         |      64.2 |     41.08% | Array, Hash Table                         |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      64.2 |     36.94% | Hash Table, String, Sliding Window        |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                  |      64.2 |     35.85% | Two Pointers, String, Dynamic Programming |
+| [ ]  | MEDIUM     | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)                    |      64.2 |     64.79% | Array, Stack                              |

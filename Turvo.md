@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | EASY       | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets)                  |     100.0 |     85.48% | Array, Enumeration                                               |
+| [ ]  | HARD       | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) |     100.0 |     59.66% | Array, Dynamic Programming                                       |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                  |     100.0 |     65.11% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                  |      67.0 |     65.11% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
