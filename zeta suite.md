@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                       | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :------------------------------------------ | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Task Scheduler](https://leetcode.com/problems/task-scheduler)                              |     100.0 |     61.54% | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
+| [ ]  | EASY       | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) |     100.0 |     84.08% | Array                                                               |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)             |     100.0 |     55.26% | Array, Dynamic Programming                                          |
+| [ ]  | MEDIUM     | [Task Scheduler](https://leetcode.com/problems/task-scheduler)                              |      66.8 |     61.54% | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)             |      66.8 |     55.26% | Array, Dynamic Programming                                          |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                                                          |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :------------------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                  |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                             |
+| [ ]  | MEDIUM     | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) |     100.0 |     62.26% | Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function |
+| [ ]  | EASY       | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)    |     100.0 |     63.59% | Tree, Depth-First Search, Binary Tree                                           |
+| [ ]  | MEDIUM     | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands) |      74.6 |     62.26% | Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function |
+| [ ]  | EASY       | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)    |      74.6 |     63.59% | Tree, Depth-First Search, Binary Tree                                           |
+| [ ]  | HARD       | [Word Search II](https://leetcode.com/problems/word-search-ii)             |      74.6 |     37.33% | Array, String, Backtracking, Trie, Matrix                                       |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                       | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------------------------ | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | HARD       | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) |     100.0 |     64.88% | Math, Dynamic Programming, Combinatorics            |
+| [ ]  | EASY       | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data)                           |     100.0 |     72.31% |                                                     |
+| [ ]  | HARD       | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)                        |      89.6 |     66.75% | Array, Dynamic Programming, Graph, Topological Sort |
+| [ ]  | EASY       | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)                              |      89.6 |     85.51% | Database                                            |
+| [ ]  | HARD       | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)                        |      89.3 |     66.75% | Array, Dynamic Programming, Graph, Topological Sort |
+| [ ]  | EASY       | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)                              |      89.3 |     85.51% | Database                                            |

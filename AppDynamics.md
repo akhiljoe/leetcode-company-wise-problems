@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :--------------------------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | MEDIUM     | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) |     100.0 |     49.50% | Hash Table, String, Sliding Window |
+| [ ]  | EASY       | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)                     |     100.0 |     74.25% | Hash Table, Math, Counting         |

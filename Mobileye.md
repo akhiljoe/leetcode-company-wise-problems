@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                         | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :---------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |     100.0 |     60.54% | Hash Table, Linked List                             |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |     100.0 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |      90.0 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List |

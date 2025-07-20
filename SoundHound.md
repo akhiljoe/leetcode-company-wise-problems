@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                             |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :------------------------------------------------- |
+| [ ]  | MEDIUM     | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree)           |     100.0 |     51.90% | Linked List, Tree, Depth-First Search, Binary Tree |
+| [ ]  | EASY       | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) |     100.0 |     55.08% | Array                                              |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)               |      67.1 |     41.08% | Array, Hash Table                                  |

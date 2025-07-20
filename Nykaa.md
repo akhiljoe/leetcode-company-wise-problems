@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Largest Number](https://leetcode.com/problems/largest-number)                         |     100.0 |     41.28% | Array, String, Greedy, Sorting                                     |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                    |     100.0 |     49.07% | Array, Binary Search                                               |
+| [ ]  | MEDIUM     | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)                      |     100.0 |     63.17% | Array, Matrix, Simulation                                          |
+| [ ]  | HARD       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                   |     100.0 |     56.77% | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)                    |      88.7 |     49.07% | Array, Binary Search                                               |
+| [ ]  | HARD       | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                   |      88.7 |     56.77% | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort |
+| [ ]  | MEDIUM     | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)                      |      88.7 |     63.17% | Array, Matrix, Simulation                                          |
+| [ ]  | MEDIUM     | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |      88.7 |     62.90% | Array, Two Pointers                                                |

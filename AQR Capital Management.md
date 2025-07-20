@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                                    |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :------------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Jump Game VI](https://leetcode.com/problems/jump-game-vi)                    |     100.0 |     46.00% | Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue |
+| [ ]  | EASY       | [Missing Number](https://leetcode.com/problems/missing-number)                  |      89.0 |     70.07% | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting         |
+| [ ]  | EASY       | [Missing Number](https://leetcode.com/problems/missing-number)                  |      63.1 |     70.07% | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting         |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      63.1 |     55.26% | Array, Dynamic Programming                                                |

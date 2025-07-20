@@ -1,0 +1,24 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                      |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :---------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)                         |     100.0 |     61.15% | String, Stack, Recursion                                    |
+| [ ]  | MEDIUM     | [Clone Graph](https://leetcode.com/problems/clone-graph)                           |     100.0 |     62.39% | Hash Table, Depth-First Search, Breadth-First Search, Graph |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      67.3 |     63.86% | Hash Table, String, Backtracking                            |
+| [ ]  | MEDIUM     | [Validate IP Address](https://leetcode.com/problems/validate-ip-address)                   |      67.3 |     27.82% | String                                                      |
+| [ ]  | MEDIUM     | [My Calendar I](https://leetcode.com/problems/my-calendar-i)                         |      67.3 |     58.15% | Array, Binary Search, Design, Segment Tree, Ordered Set     |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |     100.0 |     63.86% | Hash Table, String, Backtracking                            |
+| [ ]  | MEDIUM     | [My Calendar I](https://leetcode.com/problems/my-calendar-i)                         |     100.0 |     58.15% | Array, Binary Search, Design, Segment Tree, Ordered Set     |
+| [ ]  | MEDIUM     | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens)                         |      92.6 |     59.19% | Array, Two Pointers, Greedy, Sorting                        |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)            |      82.1 |     34.12% | Array, Hash Table, Sliding Window, Sorting                  |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)            |      82.1 |     49.37% | Hash Table, String, Binary Search, Design                   |
+| [ ]  | MEDIUM     | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k)          |      82.1 |     52.85% | Array, Binary Search, Sliding Window, Prefix Sum            |
+| [ ]  | MEDIUM     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)        |      82.1 |     57.81% | Array, Binary Search, Dynamic Programming                   |
+| [ ]  | MEDIUM     | [Decode String](https://leetcode.com/problems/decode-string)                         |      82.1 |     61.15% | String, Stack, Recursion                                    |
+| [ ]  | MEDIUM     | [Clone Graph](https://leetcode.com/problems/clone-graph)                           |      98.1 |     62.39% | Hash Table, Depth-First Search, Breadth-First Search, Graph |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)            |      96.1 |     49.37% | Hash Table, String, Binary Search, Design                   |
+| [ ]  | MEDIUM     | [My Calendar I](https://leetcode.com/problems/my-calendar-i)                         |      85.0 |     58.15% | Array, Binary Search, Design, Segment Tree, Ordered Set     |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      85.0 |     63.86% | Hash Table, String, Backtracking                            |
+| [ ]  | MEDIUM     | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens)                         |      70.0 |     59.19% | Array, Two Pointers, Greedy, Sorting                        |
+| [ ]  | MEDIUM     | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers)            |      61.2 |     34.12% | Array, Hash Table, Sliding Window, Sorting                  |
+| [ ]  | MEDIUM     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)        |      61.2 |     57.81% | Array, Binary Search, Dynamic Programming                   |
+| [ ]  | MEDIUM     | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k)          |      61.2 |     52.85% | Array, Binary Search, Sliding Window, Prefix Sum            |
+| [ ]  | MEDIUM     | [Validate IP Address](https://leetcode.com/problems/validate-ip-address)                   |      61.2 |     27.82% | String                                                      |

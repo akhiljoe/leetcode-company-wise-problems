@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                 |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------- |
+| [ ]  | MEDIUM     | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret)             |     100.0 |     46.37% | Dynamic Programming, Queue, Simulation |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.6 |     36.94% | Hash Table, String, Sliding Window     |

@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :----------------------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | HARD       | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)         |     100.0 |     53.28% | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream |
+| [ ]  | MEDIUM     | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)                 |      89.5 |     53.16% | String, Backtracking                                              |
+| [ ]  | MEDIUM     | [Snapshot Array](https://leetcode.com/problems/snapshot-array)                       |      89.5 |     36.67% | Array, Hash Table, Binary Search, Design                          |
+| [ ]  | MEDIUM     | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |      89.5 |     61.63% | Dynamic Programming                                               |
+| [ ]  | MEDIUM     | [Snapshot Array](https://leetcode.com/problems/snapshot-array)                       |     100.0 |     36.67% | Array, Hash Table, Binary Search, Design                          |
+| [ ]  | MEDIUM     | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)                 |      89.3 |     53.16% | String, Backtracking                                              |
+| [ ]  | MEDIUM     | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |      89.3 |     61.63% | Dynamic Programming                                               |

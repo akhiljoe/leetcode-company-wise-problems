@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                      |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :------------------------------------------ |
+| [ ]  | MEDIUM     | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) |     100.0 |     86.42% | Tree, Depth-First Search, Binary Tree       |
+| [ ]  | MEDIUM     | [Online Stock Span](https://leetcode.com/problems/online-stock-span)                       |     100.0 |     67.38% | Stack, Design, Monotonic Stack, Data Stream |

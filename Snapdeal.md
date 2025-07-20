@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                                |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :---------------------------------------------------- |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)         |     100.0 |     55.26% | Array, Dynamic Programming                            |
+| [ ]  | MEDIUM     | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence)          |     100.0 |     49.48% | Array, Hash Table, Binary Search, Dynamic Programming |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)         |      67.6 |     55.26% | Array, Dynamic Programming                            |
+| [ ]  | MEDIUM     | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |      67.6 |     66.76% | Tree, Depth-First Search, Binary Tree                 |

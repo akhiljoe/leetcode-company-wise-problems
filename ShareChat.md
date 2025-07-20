@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                                                                  |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :---------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)          |     100.0 |     63.74% | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| [ ]  | EASY       | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) |     100.0 |     74.47% | Array, Binary Search, Counting                                          |

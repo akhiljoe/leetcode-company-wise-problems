@@ -1,0 +1,12 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                   |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                           |     100.0 |     77.13% | String, Dynamic Programming, Backtracking                |
+| [ ]  | EASY       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                 |     100.0 |     57.09% | Database                                                 |
+| [ ]  | EASY       | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) |     100.0 |     83.59% | Database                                                 |
+| [ ]  | MEDIUM     | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth)                              |     100.0 |     56.61% | Database                                                 |
+| [ ]  | EASY       | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country)                   |     100.0 |     67.04% | Database                                                 |
+| [ ]  | MEDIUM     | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression)                    |     100.0 |     72.09% | Database                                                 |
+| [ ]  | MEDIUM     | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle)                              |     100.0 |     53.38% | Array, Two Pointers, Greedy, Sorting                     |
+| [ ]  | MEDIUM     | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle)                              |      63.7 |     53.38% | Array, Two Pointers, Greedy, Sorting                     |
+| [ ]  | MEDIUM     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)                           |      63.7 |     77.13% | String, Dynamic Programming, Backtracking                |
+| [ ]  | HARD       | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median)                          |      63.7 |     38.69% | Array, Hash Table, Sliding Window, Heap (Priority Queue) |

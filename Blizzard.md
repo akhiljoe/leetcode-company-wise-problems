@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                     |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :----------------------------------------- |
+| [ ]  | MEDIUM     | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)        |     100.0 |     38.91% | String, Dynamic Programming, Stack, Greedy |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |     100.0 |     55.26% | Array, Dynamic Programming                 |

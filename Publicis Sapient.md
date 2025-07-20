@@ -1,0 +1,11 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                               |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                            |     100.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |      88.7 |     70.93% | Array, Hash Table, String, Sorting                               |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      88.7 |     55.78% | Array, Hash Table                                                |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      88.7 |     42.32% | String, Stack                                                    |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      88.4 |     55.78% | Array, Hash Table                                                |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                 |      88.4 |     70.93% | Array, Hash Table, String, Sorting                               |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      88.4 |     42.32% | String, Stack                                                    |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      88.4 |     36.94% | Hash Table, String, Sliding Window                               |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |     100.0 |     55.78% | Array, Hash Table                                                   |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                                  |
+| [ ]  | EASY       | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                 |      88.9 |     59.28% | Tree, Depth-First Search, Breadth-First Search, Binary Tree         |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      87.3 |     36.94% | Hash Table, String, Sliding Window                                  |
+| [ ]  | EASY       | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                 |      77.2 |     59.28% | Tree, Depth-First Search, Breadth-First Search, Binary Tree         |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                              |      77.2 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |

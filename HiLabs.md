@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                                                 |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :----------------------------------------------------- |
+| [ ]  | HARD       | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations) |     100.0 |     27.46% | String, Dynamic Programming, Bit Manipulation, Bitmask |
+| [ ]  | EASY       | [Water Bottles](https://leetcode.com/problems/water-bottles)                                      |     100.0 |     70.65% | Math, Simulation                                       |
+| [ ]  | HARD       | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression)                       |     100.0 |     69.90% | String, Stack, Recursion                               |
+| [ ]  | EASY       | [Water Bottles](https://leetcode.com/problems/water-bottles)                                      |      67.9 |     70.65% | Math, Simulation                                       |
+| [ ]  | HARD       | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression)                       |      67.9 |     69.90% | String, Stack, Recursion                               |

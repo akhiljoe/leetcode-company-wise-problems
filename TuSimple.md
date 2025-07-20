@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                             |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :------------------------------------------------- |
+| [ ]  | MEDIUM     | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements)    |     100.0 |     44.93% | Array, Hash Table, Prefix Sum                      |
+| [ ]  | MEDIUM     | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences)   |     100.0 |     50.57% | Hash Table, Math, String, Combinatorics, Counting  |
+| [ ]  | HARD       | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points)           |     100.0 |     58.60% | Array, Dynamic Programming                         |
+| [ ]  | HARD       | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements) |     100.0 |     51.03% | Array, Backtracking, Bit Manipulation, Enumeration |

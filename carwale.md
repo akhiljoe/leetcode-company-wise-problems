@@ -1,0 +1,11 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string)   |     100.0 |     33.93% | Hash Table, String, Stack, Simulation                            |
+| [ ]  | MEDIUM     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)               |     100.0 |     51.61% | String                                                           |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)             |     100.0 |     65.11% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      88.6 |     55.26% | Array, Dynamic Programming                                       |
+| [ ]  | MEDIUM     | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)         |      88.6 |     62.35% | Array, Math, String, Sorting                                     |
+| [ ]  | MEDIUM     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)               |      74.0 |     51.61% | String                                                           |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)             |      74.0 |     65.11% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      65.2 |     55.26% | Array, Dynamic Programming                                       |
+| [ ]  | MEDIUM     | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)         |      65.2 |     62.35% | Array, Math, String, Sorting                                     |

@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                              |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :---------------------------------- |
+| [ ]  | MEDIUM     | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)       |     100.0 |     56.41% | Array, Hash Table, String, Trie     |
+| [ ]  | MEDIUM     | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)                                    |      92.7 |     56.62% | Array, Breadth-First Search, Matrix |
+| [ ]  | HARD       | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit)                       |      82.4 |     42.62% | String, Binary Search, Enumeration  |
+| [ ]  | MEDIUM     | [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid) |      82.4 |     61.95% | Array, Hash Table, Matrix, Counting |

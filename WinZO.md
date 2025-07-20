@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                         | Frequency | Acceptance | Topics                                                                    |
+| :--- | :--------- | :-------------------------------------------- | --------: | ---------: | :------------------------------------------------------------------------ |
+| [ ]  | HARD       | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) |     100.0 |     69.75% | Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue) |
+| [ ]  | HARD       | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)                   |      83.2 |     29.28% | String, Dynamic Programming, Recursion                                    |
+| [ ]  | MEDIUM     | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)                     |      83.2 |     51.98% | Dynamic Programming                                                       |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                                           |      83.2 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                             |
+| [ ]  | HARD       | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)                   |      83.1 |     29.28% | String, Dynamic Programming, Recursion                                    |
+| [ ]  | MEDIUM     | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)                     |      83.1 |     51.98% | Dynamic Programming                                                       |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                                           |      83.1 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                             |

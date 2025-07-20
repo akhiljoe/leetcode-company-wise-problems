@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                     | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :---------------------------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                                |     100.0 |     48.28% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
+| [ ]  | MEDIUM     | [Gas Station](https://leetcode.com/problems/gas-station)                               |     100.0 |     46.39% | Array, Greedy                                                     |
+| [ ]  | MEDIUM     | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) |     100.0 |     42.17% | Array, Hash Table, Prefix Sum                                     |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                                |      66.4 |     48.28% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
+| [ ]  | MEDIUM     | [Gas Station](https://leetcode.com/problems/gas-station)                               |      66.4 |     46.39% | Array, Greedy                                                     |

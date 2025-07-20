@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                           | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :---------------------------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Sort Colors](https://leetcode.com/problems/sort-colors)                                     |     100.0 |     67.58% | Array, Two Pointers, Sorting                                     |
+| [ ]  | HARD       | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) |     100.0 |     53.92% | Array, String, Tree, Depth-First Search, Graph, Topological Sort |
+| [ ]  | MEDIUM     | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)                   |     100.0 |     62.75% | Array, Math, Design, Data Stream, Prefix Sum                     |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                |     100.0 |     52.10% | Array, Divide and Conquer, Dynamic Programming                   |

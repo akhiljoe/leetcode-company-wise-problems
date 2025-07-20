@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                     |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :--------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Simplify Path](https://leetcode.com/problems/simplify-path)                |     100.0 |     47.85% | String, Stack                                              |
+| [ ]  | HARD       | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |      74.0 |     41.22% | Dynamic Programming, Tree, Depth-First Search, Binary Tree |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)          |      74.0 |     76.61% | Hash Table, Design, Data Stream                            |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)          |      76.2 |     76.61% | Hash Table, Design, Data Stream                            |
+| [ ]  | HARD       | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |      68.2 |     41.22% | Dynamic Programming, Tree, Depth-First Search, Binary Tree |

@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | HARD       | [Strange Printer](https://leetcode.com/problems/strange-printer)            |     100.0 |     60.78% | String, Dynamic Programming                         |
+| [ ]  | MEDIUM     | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) |      90.8 |     55.94% | Array, Two Pointers, Binary Search, Greedy, Sorting |
+| [ ]  | MEDIUM     | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) |      98.1 |     55.94% | Array, Two Pointers, Binary Search, Greedy, Sorting |

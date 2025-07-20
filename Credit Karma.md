@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)        |     100.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) |      90.6 |     48.72% | Math, Greedy                                                     |
+| [ ]  | MEDIUM     | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)        |      90.6 |     45.81% | Math, String, Stack                                              |

@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                             | Frequency | Acceptance | Topics                                            |
+| :--- | :--------- | :------------------------------------------------ | --------: | ---------: | :------------------------------------------------ |
+| [ ]  | MEDIUM     | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii)                           |     100.0 |     41.99% | Database                                          |
+| [ ]  | MEDIUM     | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)                            |     100.0 |     58.30% | Database                                          |
+| [ ]  | MEDIUM     | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest)                                 |     100.0 |     58.27% | Array, Hash Table, Math, Greedy                   |
+| [ ]  | HARD       | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) |     100.0 |     44.07% | Array, Greedy, Heap (Priority Queue), Ordered Set |

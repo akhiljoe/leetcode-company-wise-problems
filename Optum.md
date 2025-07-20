@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                         |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window             |
+| [ ]  | EASY       | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)                         |     100.0 |     86.41% | Two Pointers, String, Stack                    |
+| [ ]  | MEDIUM     | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary)                           |     100.0 |     51.99% | Database                                       |
+| [ ]  | MEDIUM     | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)                     |     100.0 |     58.25% | String, Dynamic Programming                    |
+| [ ]  | MEDIUM     | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)                     |      73.3 |     58.25% | String, Dynamic Programming                    |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      64.3 |     36.94% | Hash Table, String, Sliding Window             |
+| [ ]  | MEDIUM     | [Sort Colors](https://leetcode.com/problems/sort-colors)                                    |      64.3 |     67.58% | Array, Two Pointers, Sorting                   |
+| [ ]  | MEDIUM     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                               |      64.3 |     52.10% | Array, Divide and Conquer, Dynamic Programming |

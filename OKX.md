@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                   | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :-------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                       |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) |     100.0 |     63.57% | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix        |
+| [ ]  | HARD       | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)       |     100.0 |     69.41% | Array, Queue, Sliding Window, Monotonic Queue                       |
+| [ ]  | MEDIUM     | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) |      89.1 |     63.57% | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix        |
+| [ ]  | HARD       | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)       |      89.1 |     69.41% | Array, Queue, Sliding Window, Monotonic Queue                       |

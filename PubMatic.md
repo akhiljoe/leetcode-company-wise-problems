@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                 | Frequency | Acceptance | Topics                                                                  |
+| :--- | :--------- | :-------------------- | --------: | ---------: | :---------------------------------------------------------------------- |
+| [ ]  | EASY       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |     100.0 |     45.48% | String, Trie                                                            |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)   |      89.6 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack        |
+| [ ]  | MEDIUM     | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)      |      89.6 |     52.14% | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)   |      89.5 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack        |
+| [ ]  | MEDIUM     | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)      |      89.5 |     52.14% | Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum |

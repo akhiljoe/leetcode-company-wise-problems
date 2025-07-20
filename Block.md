@@ -1,0 +1,30 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | HARD       | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor)         |     100.0 |     47.14% | Linked List, String, Stack, Design, Simulation, Doubly-Linked List |
+| [ ]  | MEDIUM     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |      92.3 |     67.93% | Hash Table, String, Design, Trie                                   |
+| [ ]  | HARD       | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)     |      81.4 |     34.35% | Math, String, Recursion                                            |
+| [ ]  | MEDIUM     | [The Maze](https://leetcode.com/problems/the-maze)                     |      81.4 |     59.52% | Array, Depth-First Search, Breadth-First Search, Matrix            |
+| [ ]  | MEDIUM     | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)  |      81.4 |     25.08% | Design, Simulation                                                 |
+| [ ]  | MEDIUM     | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array) |      81.4 |     48.54% | Array, Hash Table, Math, Counting                                  |
+| [ ]  | MEDIUM     | [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks)       |      81.4 |     38.62% | Array, Hash Table, Enumeration                                     |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                   |      81.4 |     48.27% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization  |
+| [ ]  | MEDIUM     | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting)              |      81.4 |     71.19% | Array, Two Pointers, Greedy, Sorting                               |
+| [ ]  | EASY       | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook)  |      81.4 |     70.37% | Array, Matrix, Simulation                                          |
+| [ ]  | MEDIUM     | [Rotating the Box](https://leetcode.com/problems/rotating-the-box)             |      81.4 |     79.10% | Array, Two Pointers, Matrix                                        |
+| [ ]  | HARD       | [Falling Squares](https://leetcode.com/problems/falling-squares)              |      81.4 |     46.29% | Array, Segment Tree, Ordered Set                                   |
+| [ ]  | MEDIUM     | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation)          |      81.4 |     57.25% | Array, Math                                                        |
+| [ ]  | HARD       | [Word Search II](https://leetcode.com/problems/word-search-ii)               |      81.4 |     37.33% | Array, String, Backtracking, Trie, Matrix                          |
+| [ ]  | MEDIUM     | [Rotating the Box](https://leetcode.com/problems/rotating-the-box)             |     100.0 |     79.10% | Array, Two Pointers, Matrix                                        |
+| [ ]  | EASY       | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook)  |      97.8 |     70.37% | Array, Matrix, Simulation                                          |
+| [ ]  | MEDIUM     | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation)          |      97.8 |     57.25% | Array, Math                                                        |
+| [ ]  | MEDIUM     | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)  |      97.8 |     25.08% | Design, Simulation                                                 |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                   |      97.8 |     48.27% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization  |
+| [ ]  | HARD       | [Falling Squares](https://leetcode.com/problems/falling-squares)              |      97.8 |     46.29% | Array, Segment Tree, Ordered Set                                   |
+| [ ]  | MEDIUM     | [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks)       |      97.8 |     38.62% | Array, Hash Table, Enumeration                                     |
+| [ ]  | MEDIUM     | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array) |      97.8 |     48.54% | Array, Hash Table, Math, Counting                                  |
+| [ ]  | MEDIUM     | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting)              |      97.8 |     71.19% | Array, Two Pointers, Greedy, Sorting                               |
+| [ ]  | HARD       | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor)         |      76.2 |     47.14% | Linked List, String, Stack, Design, Simulation, Doubly-Linked List |
+| [ ]  | MEDIUM     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |      69.5 |     67.93% | Hash Table, String, Design, Trie                                   |
+| [ ]  | HARD       | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)     |      60.0 |     34.35% | Math, String, Recursion                                            |
+| [ ]  | MEDIUM     | [The Maze](https://leetcode.com/problems/the-maze)                     |      60.0 |     59.52% | Array, Depth-First Search, Breadth-First Search, Matrix            |
+| [ ]  | HARD       | [Word Search II](https://leetcode.com/problems/word-search-ii)               |      60.0 |     37.33% | Array, String, Backtracking, Trie, Matrix                          |

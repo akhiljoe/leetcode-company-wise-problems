@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                       | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------------------------------ | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | HARD       | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii)                      |     100.0 |     58.88% | Array, Breadth-First Search, Heap (Priority Queue), Matrix        |
+| [ ]  | MEDIUM     | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) |      89.6 |     60.41% | Array, Hash Table, Heap (Priority Queue)                          |
+| [ ]  | HARD       | [Frog Jump](https://leetcode.com/problems/frog-jump)                                   |      89.6 |     46.56% | Array, Dynamic Programming                                        |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                                  |      89.6 |     48.28% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
+| [ ]  | MEDIUM     | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) |      82.5 |     60.41% | Array, Hash Table, Heap (Priority Queue)                          |
+| [ ]  | HARD       | [Frog Jump](https://leetcode.com/problems/frog-jump)                                   |      82.5 |     46.56% | Array, Dynamic Programming                                        |
+| [ ]  | MEDIUM     | [Word Break](https://leetcode.com/problems/word-break)                                  |      82.5 |     48.28% | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
+| [ ]  | MEDIUM     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)                 |      82.5 |     64.44% |                                                                   |

@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                               |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :----------------------------------- |
+| [ ]  | EASY       | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                              |     100.0 |     77.02% | Array, Dynamic Programming           |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                             |      89.2 |     52.92% | Array, Two Pointers, Sorting         |
+| [ ]  | MEDIUM     | [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty)          |      89.2 |     56.21% | Array, Hash Table, Sorting, Counting |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      89.2 |     36.94% | Hash Table, String, Sliding Window   |
+| [ ]  | MEDIUM     | [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty)          |     100.0 |     56.21% | Array, Hash Table, Sorting, Counting |
+| [ ]  | EASY       | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                              |      74.7 |     77.02% | Array, Dynamic Programming           |
+| [ ]  | EASY       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                             |      66.2 |     52.92% | Array, Two Pointers, Sorting         |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      66.2 |     36.94% | Hash Table, String, Sliding Window   |

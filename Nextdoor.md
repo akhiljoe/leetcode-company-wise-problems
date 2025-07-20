@@ -1,0 +1,18 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | HARD       | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure)              |     100.0 |     44.13% | Hash Table, Linked List, Design, Doubly-Linked List              |
+| [ ]  | MEDIUM     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)               |      76.7 |     42.35% | Two Pointers, String                                             |
+| [ ]  | MEDIUM     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)               |     100.0 |     42.35% | Two Pointers, String                                             |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                       |      85.3 |     49.40% | Array, Sorting                                                   |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      70.6 |     63.86% | Hash Table, String, Backtracking                                 |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                   |      70.6 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)                |      70.6 |     85.54% | Depth-First Search, Breadth-First Search                         |
+| [ ]  | MEDIUM     | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)                   |      70.6 |     18.40% | Math, Bit Manipulation                                           |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)            |      70.6 |     49.37% | Hash Table, String, Binary Search, Design                        |
+| [ ]  | HARD       | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure)              |      98.0 |     44.13% | Hash Table, Linked List, Design, Doubly-Linked List              |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                       |      78.9 |     49.40% | Array, Sorting                                                   |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      64.4 |     63.86% | Hash Table, String, Backtracking                                 |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                   |      64.4 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)                |      64.4 |     85.54% | Depth-First Search, Breadth-First Search                         |
+| [ ]  | MEDIUM     | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)                   |      64.4 |     18.40% | Math, Bit Manipulation                                           |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)            |      64.4 |     49.37% | Hash Table, String, Binary Search, Design                        |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                   |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Path Sum IV](https://leetcode.com/problems/path-sum-iv)                                    |     100.0 |     62.66% | Array, Hash Table, Tree, Depth-First Search, Binary Tree |
+| [ ]  | MEDIUM     | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings)                     |     100.0 |     43.32% | Array, String, Greedy                                    |
+| [ ]  | HARD       | [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum)                     |     100.0 |     50.06% | Array, Hash Table, Prefix Sum                            |
+| [ ]  | MEDIUM     | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)                       |     100.0 |     38.91% | String, Dynamic Programming, Stack, Greedy               |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                       |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      63.7 |     36.94% | Hash Table, String, Sliding Window                       |

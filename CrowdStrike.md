@@ -1,0 +1,22 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)              |     100.0 |     58.09% | Two Pointers, String                                                |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)             |      78.6 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack    |
+| [ ]  | MEDIUM     | [Course Schedule](https://leetcode.com/problems/course-schedule)                 |      78.6 |     49.23% | Depth-First Search, Breadth-First Search, Graph, Topological Sort   |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                 |     100.0 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)               |      88.5 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      88.5 |     55.26% | Array, Dynamic Programming                                          |
+| [ ]  | MEDIUM     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                   |      88.5 |     53.94% | Array, Matrix, Simulation                                           |
+| [ ]  | EASY       | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                     |      88.5 |     62.80% | Array, Two Pointers                                                 |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)      |      88.5 |     49.37% | Hash Table, String, Binary Search, Design                           |
+| [ ]  | MEDIUM     | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)       |      88.5 |     49.70% | Array, String, Design                                               |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)               |      77.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                 |      77.0 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)       |      77.0 |     49.70% | Array, String, Design                                               |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)             |      77.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack    |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      67.5 |     55.26% | Array, Dynamic Programming                                          |
+| [ ]  | EASY       | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                     |      67.5 |     62.80% | Array, Two Pointers                                                 |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)      |      67.5 |     49.37% | Hash Table, String, Binary Search, Design                           |
+| [ ]  | MEDIUM     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                   |      67.5 |     53.94% | Array, Matrix, Simulation                                           |
+| [ ]  | EASY       | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)       |      67.5 |     73.22% | Array, Two Pointers, Sorting                                        |
+| [ ]  | MEDIUM     | [Course Schedule](https://leetcode.com/problems/course-schedule)                 |      67.5 |     49.23% | Depth-First Search, Breadth-First Search, Graph, Topological Sort   |

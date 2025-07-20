@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                                      | Frequency | Acceptance | Topics                     |
+| :--- | :--------- | :--------------------------------------------------------- | --------: | ---------: | :------------------------- |
+| [ ]  | MEDIUM     | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number) |     100.0 |     64.62% | Math, Simulation           |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                                    |     100.0 |     55.78% | Array, Hash Table          |
+| [ ]  | EASY       | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                          |     100.0 |     59.22% | Math                       |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                                    |      66.6 |     55.78% | Array, Hash Table          |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                            |      66.6 |     55.26% | Array, Dynamic Programming |
+| [ ]  | EASY       | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                          |      66.6 |     59.22% | Math                       |

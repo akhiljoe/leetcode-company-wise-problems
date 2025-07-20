@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                      | Frequency | Acceptance | Topics                                                   |
+| :--- | :--------- | :------------------------- | --------: | ---------: | :------------------------------------------------------- |
+| [ ]  | EASY       | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) |     100.0 |     76.47% | Array, Hash Table, Two Pointers, Binary Search, Sorting  |
+| [ ]  | EASY       | [Majority Element](https://leetcode.com/problems/majority-element)           |     100.0 |     65.74% | Array, Hash Table, Divide and Conquer, Sorting, Counting |

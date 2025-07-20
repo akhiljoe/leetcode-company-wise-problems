@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                     |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :----------------------------------------- |
+| [ ]  | MEDIUM     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)          |     100.0 |     67.94% | Hash Table, String, Design, Trie           |
+| [ ]  | EASY       | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) |     100.0 |     78.68% | Array, Bit Manipulation, Sorting, Counting |
+| [ ]  | MEDIUM     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)          |      72.2 |     67.94% | Hash Table, String, Design, Trie           |

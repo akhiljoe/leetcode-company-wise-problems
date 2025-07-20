@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | HARD       | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) |     100.0 |     54.42% | Array, Binary Search, Dynamic Programming, Sorting                  |
+| [ ]  | MEDIUM     | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)               |      92.3 |     42.89% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                |      92.3 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)   |      81.6 |     42.84% | Array, Binary Search                                                |
+| [ ]  | MEDIUM     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)   |      81.3 |     42.84% | Array, Binary Search                                                |
+| [ ]  | HARD       | [Candy](https://leetcode.com/problems/candy)                            |      81.3 |     46.70% | Array, Greedy                                                       |

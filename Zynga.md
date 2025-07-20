@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                             |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :--------------------------------- |
+| [ ]  | HARD       | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)                 |     100.0 |     47.38% | Array, Stack, Monotonic Stack      |
+| [ ]  | MEDIUM     | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)                             |      72.0 |     45.50% | Array, Stack, Simulation           |
+| [ ]  | MEDIUM     | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)                             |      71.5 |     45.50% | Array, Stack, Simulation           |
+| [ ]  | EASY       | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                            |      71.5 |     79.21% | Linked List, Recursion             |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      71.5 |     36.94% | Hash Table, String, Sliding Window |

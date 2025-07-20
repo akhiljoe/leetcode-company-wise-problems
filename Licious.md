@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                          | Frequency | Acceptance | Topics                                    |
+| :--- | :--------- | :----------------------------- | --------: | ---------: | :---------------------------------------- |
+| [ ]  | HARD       | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)         |     100.0 |     41.09% | Array, Hash Table                         |
+| [ ]  | MEDIUM     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |     100.0 |     57.81% | Array, Binary Search, Dynamic Programming |

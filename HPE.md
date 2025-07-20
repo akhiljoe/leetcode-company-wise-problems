@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                              |     100.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                                  |
+| [ ]  | EASY       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                         |     100.0 |     66.84% | Linked List, Recursion                                              |
+| [ ]  | MEDIUM     | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)                      |     100.0 |     51.91% | Two Pointers, String                                                |

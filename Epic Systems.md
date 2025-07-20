@@ -1,0 +1,27 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                  |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)          |     100.0 |     63.86% | Hash Table, String, Backtracking                        |
+| [ ]  | MEDIUM     | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)                         |      89.5 |     71.68% | Two Pointers, String, Dynamic Programming               |
+| [ ]  | MEDIUM     | [Additive Number](https://leetcode.com/problems/additive-number)                                |      89.5 |     32.55% | String, Backtracking                                    |
+| [ ]  | MEDIUM     | [Additive Number](https://leetcode.com/problems/additive-number)                                |      92.8 |     32.55% | String, Backtracking                                    |
+| [ ]  | MEDIUM     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                                  |      89.1 |     53.94% | Array, Matrix, Simulation                               |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      84.5 |     42.32% | String, Stack                                           |
+| [ ]  | EASY       | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)                          |      74.9 |     79.62% | Math                                                    |
+| [ ]  | MEDIUM     | [Word Search](https://leetcode.com/problems/word-search)                                    |      70.3 |     45.27% | Array, String, Backtracking, Depth-First Search, Matrix |
+| [ ]  | MEDIUM     | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)                 |      64.4 |     64.22% | Math                                                    |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      56.1 |     36.94% | Hash Table, String, Sliding Window                      |
+| [ ]  | MEDIUM     | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers)                               |      56.1 |     47.67% | Math, Backtracking, Breadth-First Search                |
+| [ ]  | MEDIUM     | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)                                 |      56.1 |     51.39% | Hash Table, String, Counting                            |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      56.1 |     55.78% | Array, Hash Table                                       |
+| [ ]  | MEDIUM     | [Additive Number](https://leetcode.com/problems/additive-number)                                |     100.0 |     32.55% | String, Backtracking                                    |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)          |      98.1 |     63.86% | Hash Table, String, Backtracking                        |
+| [ ]  | EASY       | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)                          |      89.3 |     79.62% | Math                                                    |
+| [ ]  | MEDIUM     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                                  |      85.9 |     53.94% | Array, Matrix, Simulation                               |
+| [ ]  | MEDIUM     | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers)                               |      84.0 |     47.67% | Math, Backtracking, Breadth-First Search                |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      81.8 |     42.32% | String, Stack                                           |
+| [ ]  | MEDIUM     | [Word Search](https://leetcode.com/problems/word-search)                                    |      65.3 |     45.27% | Array, String, Backtracking, Depth-First Search, Matrix |
+| [ ]  | MEDIUM     | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)                 |      65.3 |     64.22% | Math                                                    |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |      59.5 |     55.78% | Array, Hash Table                                       |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |      51.3 |     36.94% | Hash Table, String, Sliding Window                      |
+| [ ]  | MEDIUM     | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)                                 |      51.3 |     51.39% | Hash Table, String, Counting                            |
+| [ ]  | MEDIUM     | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)                         |      51.3 |     71.68% | Two Pointers, String, Dynamic Programming               |

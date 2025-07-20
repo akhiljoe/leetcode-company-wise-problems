@@ -1,0 +1,11 @@
+| Done | Difficulty | Title                                        | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | HARD       | [Word Ladder](https://leetcode.com/problems/word-ladder)                                  |     100.0 |     42.81% | Hash Table, String, Breadth-First Search            |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                    |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)              |     100.0 |     55.26% | Array, Dynamic Programming                          |
+| [ ]  | MEDIUM     | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) |     100.0 |     56.42% | Array, Hash Table, String, Trie                     |
+| [ ]  | MEDIUM     | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)                          |     100.0 |     45.81% | Math, String, Stack                                 |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                    |      66.1 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)              |      66.1 |     55.26% | Array, Dynamic Programming                          |
+| [ ]  | MEDIUM     | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)                          |      66.1 |     45.81% | Math, String, Stack                                 |
+| [ ]  | HARD       | [Word Ladder](https://leetcode.com/problems/word-ladder)                                  |      66.1 |     42.81% | Hash Table, String, Breadth-First Search            |

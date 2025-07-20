@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                           | Frequency | Acceptance | Topics                       |
+| :--- | :--------- | :---------------------------------------------- | --------: | ---------: | :--------------------------- |
+| [ ]  | EASY       | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)                |     100.0 |     83.85% | Hash Table, String           |
+| [ ]  | EASY       | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) |      84.4 |     63.64% | Hash Table, String, Counting |

@@ -1,0 +1,14 @@
+| Done | Difficulty | Title                                  | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :------------------------------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)                    |     100.0 |     76.61% | Hash Table, Design, Data Stream                                     |
+| [ ]  | HARD       | [Word Ladder](https://leetcode.com/problems/word-ladder)                            |     100.0 |     42.81% | Hash Table, String, Breadth-First Search                            |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                              |      80.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                     |      66.7 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                      |      59.0 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| [ ]  | MEDIUM     | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) |      59.0 |     55.91% | Math, Enumeration                                                   |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)                    |      59.0 |     76.61% | Hash Table, Design, Data Stream                                     |
+| [ ]  | MEDIUM     | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) |      88.6 |     55.91% | Math, Enumeration                                                   |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                              |      81.6 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                 |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                     |      70.7 |     69.21% | Array, Binary Search, Design, Queue, Data Stream                    |
+| [ ]  | EASY       | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)                    |      70.7 |     76.61% | Hash Table, Design, Data Stream                                     |
+| [ ]  | MEDIUM     | [Number of Islands](https://leetcode.com/problems/number-of-islands)                      |      57.2 |     62.32% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |

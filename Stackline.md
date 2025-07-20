@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------- | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |     100.0 |     42.01% | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                  |     100.0 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                     |
+| [ ]  | HARD       | [IPO](https://leetcode.com/problems/ipo)                  |      77.2 |     53.02% | Array, Greedy, Sorting, Heap (Priority Queue)                     |

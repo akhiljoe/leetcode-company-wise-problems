@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                                                      |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :---------------------------------------------------------- |
+| [ ]  | EASY       | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i)                   |     100.0 |     56.78% | String                                                      |
+| [ ]  | EASY       | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) |     100.0 |     73.47% | Array, Hash Table                                           |
+| [ ]  | HARD       | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets)                         |      66.3 |     35.94% | Array, Math, Dynamic Programming, Bit Manipulation, Bitmask |
+| [ ]  | HARD       | [Groups of Strings](https://leetcode.com/problems/groups-of-strings)                                  |      66.3 |     26.60% | String, Bit Manipulation, Union Find                        |
+| [ ]  | HARD       | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets)                         |     100.0 |     35.94% | Array, Math, Dynamic Programming, Bit Manipulation, Bitmask |
+| [ ]  | HARD       | [Groups of Strings](https://leetcode.com/problems/groups-of-strings)                                  |     100.0 |     26.60% | String, Bit Manipulation, Union Find                        |

@@ -1,0 +1,25 @@
+| Done | Difficulty | Title                            | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :------------------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Design SQL](https://leetcode.com/problems/design-sql)                       |     100.0 |     69.82% | Array, Hash Table, String, Design                                  |
+| [ ]  | MEDIUM     | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)     |      80.0 |     65.23% | Stack, Tree, Depth-First Search, Design, Queue, Iterator           |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)       |      66.7 |     49.37% | Hash Table, String, Binary Search, Design                          |
+| [ ]  | MEDIUM     | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator)          |      66.7 |     48.44% | Array, Hash Table, Design, Simulation                              |
+| [ ]  | MEDIUM     | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)               |      59.0 |     45.50% | Array, Stack, Simulation                                           |
+| [ ]  | HARD       | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula)         |     100.0 |     42.57% | Array, Hash Table, String, Graph, Design, Topological Sort, Matrix |
+| [ ]  | MEDIUM     | [Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded)        |      90.4 |     50.10% | Depth-First Search, Breadth-First Search, Concurrency              |
+| [ ]  | MEDIUM     | [Design SQL](https://leetcode.com/problems/design-sql)                       |      90.4 |     69.82% | Array, Hash Table, String, Design                                  |
+| [ ]  | MEDIUM     | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)     |      90.4 |     65.23% | Stack, Tree, Depth-First Search, Design, Queue, Iterator           |
+| [ ]  | MEDIUM     | [Simplify Path](https://leetcode.com/problems/simplify-path)                    |      73.9 |     47.85% | String, Stack                                                      |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)       |      73.9 |     49.37% | Hash Table, String, Binary Search, Design                          |
+| [ ]  | EASY       | [Flood Fill](https://leetcode.com/problems/flood-fill)                       |      73.9 |     66.48% | Array, Depth-First Search, Breadth-First Search, Matrix            |
+| [ ]  | MEDIUM     | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)     |      85.4 |     65.23% | Stack, Tree, Depth-First Search, Design, Queue, Iterator           |
+| [ ]  | HARD       | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula)         |      75.4 |     42.57% | Array, Hash Table, String, Graph, Design, Topological Sort, Matrix |
+| [ ]  | MEDIUM     | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)       |      71.8 |     49.37% | Hash Table, String, Binary Search, Design                          |
+| [ ]  | MEDIUM     | [Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded)        |      67.5 |     50.10% | Depth-First Search, Breadth-First Search, Concurrency              |
+| [ ]  | MEDIUM     | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator)          |      61.8 |     48.44% | Array, Hash Table, Design, Simulation                              |
+| [ ]  | MEDIUM     | [Simplify Path](https://leetcode.com/problems/simplify-path)                    |      53.9 |     47.85% | String, Stack                                                      |
+| [ ]  | EASY       | [Flood Fill](https://leetcode.com/problems/flood-fill)                       |      53.9 |     66.48% | Array, Depth-First Search, Breadth-First Search, Matrix            |
+| [ ]  | MEDIUM     | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)        |      53.9 |     49.70% | Array, String, Design                                              |
+| [ ]  | EASY       | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) |      53.9 |     87.78% | Array, Matrix                                                      |
+| [ ]  | MEDIUM     | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)               |      53.9 |     45.50% | Array, Stack, Simulation                                           |
+| [ ]  | MEDIUM     | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)     |      72.0 |     65.23% | Stack, Tree, Depth-First Search, Design, Queue, Iterator           |

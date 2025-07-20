@@ -1,0 +1,13 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                   |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :------------------------------------------------------- |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                |     100.0 |     64.87% | Hash Table, Math, String                                 |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                         |     100.0 |     55.78% | Array, Hash Table                                        |
+| [ ]  | EASY       | [Majority Element](https://leetcode.com/problems/majority-element)                |     100.0 |     65.74% | Array, Hash Table, Divide and Conquer, Sorting, Counting |
+| [ ]  | EASY       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)           |     100.0 |     45.48% | String, Trie                                             |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |     100.0 |     55.26% | Array, Dynamic Programming                               |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)   |     100.0 |     35.85% | Two Pointers, String, Dynamic Programming                |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |      88.1 |     55.26% | Array, Dynamic Programming                               |
+| [ ]  | HARD       | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)     |      88.1 |     43.81% | Array, Binary Search, Divide and Conquer                 |
+| [ ]  | EASY       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                |      88.1 |     64.87% | Hash Table, Math, String                                 |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                         |      88.1 |     55.78% | Array, Hash Table                                        |
+| [ ]  | MEDIUM     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)   |      88.1 |     35.85% | Two Pointers, String, Dynamic Programming                |

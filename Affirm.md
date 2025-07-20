@@ -1,0 +1,27 @@
+| Done | Difficulty | Title                                             | Frequency | Acceptance | Topics                                           |
+| :--- | :--------- | :------------------------------------------------ | --------: | ---------: | :----------------------------------------------- |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)                      |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized      |
+| [ ]  | MEDIUM     | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array)           |      81.4 |     48.21% | Array, Hash Table, String, Trie                  |
+| [ ]  | HARD       | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |      71.4 |     35.77% | Array, Hash Table, Math, Design, Randomized      |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                                |      71.4 |     69.21% | Array, Binary Search, Design, Queue, Data Stream |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)                                |      63.5 |     58.09% | Two Pointers, String                             |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                    |      83.1 |     70.93% | Array, Hash Table, String, Sorting               |
+| [ ]  | MEDIUM     | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array)           |      79.3 |     48.21% | Array, Hash Table, String, Trie                  |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                                |      74.5 |     69.21% | Array, Binary Search, Design, Queue, Data Stream |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                     |      71.6 |     66.66% | Hash Table, String, Sorting                      |
+| [ ]  | HARD       | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |      68.2 |     35.77% | Array, Hash Table, Math, Design, Randomized      |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)                                |      68.2 |     58.09% | Two Pointers, String                             |
+| [ ]  | MEDIUM     | [Coin Change](https://leetcode.com/problems/coin-change)                                       |      58.6 |     46.50% | Array, Dynamic Programming, Breadth-First Search |
+| [ ]  | MEDIUM     | [String Compression III](https://leetcode.com/problems/string-compression-iii)                            |      50.9 |     66.82% | String                                           |
+| [ ]  | HARD       | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression)                             |      50.9 |     52.76% | Hash Table, String, Stack, Recursion             |
+| [ ]  | MEDIUM     | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array)           |      81.0 |     48.21% | Array, Hash Table, String, Trie                  |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                    |      76.6 |     70.93% | Array, Hash Table, String, Sorting               |
+| [ ]  | HARD       | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression)                             |      74.9 |     52.76% | Hash Table, String, Stack, Recursion             |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                                |      73.0 |     69.21% | Array, Binary Search, Design, Queue, Data Stream |
+| [ ]  | HARD       | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |      70.9 |     35.77% | Array, Hash Table, Math, Design, Randomized      |
+| [ ]  | MEDIUM     | [String Compression](https://leetcode.com/problems/string-compression)                                |      68.4 |     58.09% | Two Pointers, String                             |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                     |      65.6 |     66.66% | Hash Table, String, Sorting                      |
+| [ ]  | MEDIUM     | [Coin Change](https://leetcode.com/problems/coin-change)                                       |      58.3 |     46.50% | Array, Dynamic Programming, Breadth-First Search |
+| [ ]  | MEDIUM     | [String Compression III](https://leetcode.com/problems/string-compression-iii)                            |      45.8 |     66.82% | String                                           |
+| [ ]  | EASY       | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                            |      45.8 |     77.33% | Design, Queue, Data Stream                       |
+| [ ]  | MEDIUM     | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)                                |      90.4 |     69.21% | Array, Binary Search, Design, Queue, Data Stream |

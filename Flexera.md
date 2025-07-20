@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                 | Frequency | Acceptance | Topics                                                   |
+| :--- | :--------- | :---------------------------------------------------- | --------: | ---------: | :------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) |     100.0 |     50.97% | Hash Table, String, Stack, Greedy, Heap (Priority Queue) |
+| [ ]  | EASY       | [Clear Digits](https://leetcode.com/problems/clear-digits)                                          |     100.0 |     82.59% | String, Stack, Simulation                                |

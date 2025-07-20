@@ -1,0 +1,4 @@
+| Done | Difficulty | Title              | Frequency | Acceptance | Topics                                                              |
+| :--- | :--------- | :----------------- | --------: | ---------: | :------------------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)    |     100.0 |     49.40% | Array, Sorting                                                      |
+| [ ]  | MEDIUM     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) |     100.0 |     73.16% | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |

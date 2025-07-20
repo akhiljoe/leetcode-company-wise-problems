@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                          | Frequency | Acceptance | Topics                                                                                  |
+| :--- | :--------- | :----------------------------- | --------: | ---------: | :-------------------------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Minimum Time to Break Locks I](https://leetcode.com/problems/minimum-time-to-break-locks-i)  |     100.0 |     30.34% | Array, Dynamic Programming, Backtracking, Bit Manipulation, Depth-First Search, Bitmask |
+| [ ]  | HARD       | [Minimum Time to Break Locks II](https://leetcode.com/problems/minimum-time-to-break-locks-ii) |     100.0 |     42.70% | Array, Depth-First Search, Graph                                                        |

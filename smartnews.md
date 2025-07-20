@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank)                                   |     100.0 |     65.48% | Graph                                               |
+| [ ]  | MEDIUM     | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number)                             |      94.8 |     36.47% | Hash Table, String, Greedy, Counting                |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                              |      94.8 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                                   |      78.8 |     37.07% | Array, Two Pointers, Sorting                        |
+| [ ]  | MEDIUM     | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) |      78.8 |     61.29% | Hash Table, String, Greedy, Sorting                 |
+| [ ]  | MEDIUM     | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number)                             |     100.0 |     36.47% | Hash Table, String, Greedy, Counting                |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                                                   |      78.7 |     37.07% | Array, Two Pointers, Sorting                        |
+| [ ]  | MEDIUM     | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) |      78.7 |     61.29% | Hash Table, String, Greedy, Sorting                 |

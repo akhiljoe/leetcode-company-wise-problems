@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                             | Frequency | Acceptance | Topics                                                |
+| :--- | :--------- | :-------------------------------- | --------: | ---------: | :---------------------------------------------------- |
+| [ ]  | HARD       | [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters) |     100.0 |     56.04% | Array, Dynamic Programming, Bit Manipulation, Bitmask |
+| [ ]  | MEDIUM     | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries)             |     100.0 |     34.55% | Array, Hash Table, String, Bit Manipulation           |
+| [ ]  | MEDIUM     | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings)       |     100.0 |     66.98% | Array, Bit Manipulation, Brainteaser                  |
+| [ ]  | HARD       | [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update) |     100.0 |     29.24% | Array, Segment Tree                                   |
+| [ ]  | HARD       | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)             |     100.0 |     50.10% | String, Dynamic Programming                           |
+| [ ]  | HARD       | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)             |      64.3 |     50.10% | String, Dynamic Programming                           |

@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                                                       | Frequency | Acceptance | Topics      |
+| :--- | :--------- | :---------------------------------------------------------- | --------: | ---------: | :---------- |
+| [ ]  | EASY       | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) |     100.0 |     65.04% | Array       |
+| [ ]  | EASY       | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers)                          |     100.0 |     73.66% | Array, Math |

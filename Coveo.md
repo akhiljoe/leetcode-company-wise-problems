@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                     | Frequency | Acceptance | Topics                                                           |
+| :--- | :--------- | :------------------------ | --------: | ---------: | :--------------------------------------------------------------- |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)       |     100.0 |     65.11% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| [ ]  | MEDIUM     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |      85.4 |     57.79% | Array, Two Pointers, Greedy                                      |

@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                                              | Frequency | Acceptance | Topics                          |
+| :--- | :--------- | :------------------------------------------------- | --------: | ---------: | :------------------------------ |
+| [ ]  | EASY       | [Classifying Triangles by Lengths](https://leetcode.com/problems/classifying-triangles-by-lengths)                   |     100.0 |     50.82% | Database                        |
+| [ ]  | HARD       | [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations) |     100.0 |     28.96% | Array, Greedy, Bit Manipulation |
+| [ ]  | MEDIUM     | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii)             |     100.0 |     34.87% | Array, Bit Manipulation         |
+| [ ]  | EASY       | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i)              |     100.0 |     73.96% | Array, Bit Manipulation         |
+| [ ]  | EASY       | [Classifying Triangles by Lengths](https://leetcode.com/problems/classifying-triangles-by-lengths)                   |      88.5 |     50.82% | Database                        |
+| [ ]  | HARD       | [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations) |      88.5 |     28.96% | Array, Greedy, Bit Manipulation |

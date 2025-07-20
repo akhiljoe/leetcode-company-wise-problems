@@ -1,0 +1,16 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | HARD       | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)          |     100.0 |     53.28% | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                             |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List               |
+| [ ]  | MEDIUM     | [Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system)          |      72.3 |     42.17% | Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream   |
+| [ ]  | EASY       | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart)            |      72.3 |     75.06% | Database                                                          |
+| [ ]  | MEDIUM     | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins)                    |      72.3 |     58.14% | Array, Math, Dynamic Programming, Probability and Statistics      |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      72.3 |     63.86% | Hash Table, String, Backtracking                                  |
+| [ ]  | EASY       | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart)            |     100.0 |     75.06% | Database                                                          |
+| [ ]  | MEDIUM     | [Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system)          |     100.0 |     42.17% | Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream   |
+| [ ]  | MEDIUM     | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins)                    |     100.0 |     58.14% | Array, Math, Dynamic Programming, Probability and Statistics      |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                             |      92.1 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List               |
+| [ ]  | EASY       | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)            |      64.4 |     58.19% | Two Pointers, String                                              |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      64.4 |     63.86% | Hash Table, String, Backtracking                                  |
+| [ ]  | EASY       | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)                |      64.4 |     67.59% | Array, Hash Table, String                                         |
+| [ ]  | HARD       | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)          |      64.4 |     53.28% | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream |

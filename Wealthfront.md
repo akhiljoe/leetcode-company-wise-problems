@@ -1,0 +1,3 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                       |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :--------------------------- |
+| [ ]  | MEDIUM     | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii) |     100.0 |     72.75% | Hash Table, String, Counting |

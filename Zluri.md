@@ -1,0 +1,4 @@
+| Done | Difficulty | Title                          | Frequency | Acceptance | Topics                                                     |
+| :--- | :--------- | :----------------------------- | --------: | ---------: | :--------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Maximum Array Hopping Score I](https://leetcode.com/problems/maximum-array-hopping-score-i)  |     100.0 |     77.62% | Array, Dynamic Programming, Stack, Greedy, Monotonic Stack |
+| [ ]  | MEDIUM     | [Maximum Array Hopping Score II](https://leetcode.com/problems/maximum-array-hopping-score-ii) |     100.0 |     57.34% | Array, Stack, Greedy, Monotonic Stack                      |

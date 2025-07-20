@@ -1,0 +1,7 @@
+| Done | Difficulty | Title                        | Frequency | Acceptance | Topics                                                                                 |
+| :--- | :--------- | :--------------------------- | --------: | ---------: | :------------------------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |     100.0 |     67.78% | Array, Prefix Sum                                                                      |
+| [ ]  | MEDIUM     | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)   |      81.2 |     67.94% | Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect |
+| [ ]  | EASY       | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring)  |      56.4 |     39.62% | String, Dynamic Programming, String Matching                                           |
+| [ ]  | EASY       | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring)  |      83.5 |     39.62% | String, Dynamic Programming, String Matching                                           |
+| [ ]  | MEDIUM     | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)   |      79.5 |     67.94% | Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect |

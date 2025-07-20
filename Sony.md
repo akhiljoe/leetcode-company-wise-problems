@@ -1,0 +1,10 @@
+| Done | Difficulty | Title                                    | Frequency | Acceptance | Topics                                                    |
+| :--- | :--------- | :--------------------------------------- | --------: | ---------: | :-------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)                  |     100.0 |     48.28% | Array, Math, Binary Search, Prefix Sum, Randomized        |
+| [ ]  | HARD       | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)                          |     100.0 |     76.35% | Array, Dynamic Programming, Greedy, Sorting               |
+| [ ]  | HARD       | [Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree) |      89.4 |     56.99% | Math, Dynamic Programming, Tree, Binary Tree, Game Theory |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)          |      89.4 |     55.26% | Array, Dynamic Programming                                |
+| [ ]  | HARD       | [Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree) |     100.0 |     56.99% | Math, Dynamic Programming, Tree, Binary Tree, Game Theory |
+| [ ]  | HARD       | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes)                          |      74.9 |     76.35% | Array, Dynamic Programming, Greedy, Sorting               |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)          |      66.5 |     55.26% | Array, Dynamic Programming                                |
+| [ ]  | MEDIUM     | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)                  |      66.5 |     48.28% | Array, Math, Binary Search, Prefix Sum, Randomized        |

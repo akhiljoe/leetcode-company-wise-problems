@@ -1,0 +1,8 @@
+| Done | Difficulty | Title                              | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :--------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | MEDIUM     | [Longest Happy String](https://leetcode.com/problems/longest-happy-string)               |     100.0 |     65.46% | String, Greedy, Heap (Priority Queue)               |
+| [ ]  | MEDIUM     | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |     100.0 |     69.50% | Array, Dynamic Programming, Greedy                  |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)    |     100.0 |     55.26% | Array, Dynamic Programming                          |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                          |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | MEDIUM     | [Rotate Image](https://leetcode.com/problems/rotate-image)                       |     100.0 |     77.90% | Array, Math, Matrix                                 |
+| [ ]  | MEDIUM     | [3Sum](https://leetcode.com/problems/3sum)                               |     100.0 |     37.07% | Array, Two Pointers, Sorting                        |

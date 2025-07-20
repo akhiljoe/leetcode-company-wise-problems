@@ -1,0 +1,12 @@
+| Done | Difficulty | Title                           | Frequency | Acceptance | Topics                                                            |
+| :--- | :--------- | :------------------------------ | --------: | ---------: | :---------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                 |     100.0 |     49.40% | Array, Sorting                                                    |
+| [ ]  | MEDIUM     | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)              |     100.0 |     67.37% | Array, Stack, Monotonic Stack                                     |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)    |     100.0 |     54.99% | Array, Hash Table, Math, Design, Randomized                       |
+| [ ]  | MEDIUM     | [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character) |     100.0 |     41.07% | Hash Table, String, Rolling Hash, Hash Function                   |
+| [ ]  | HARD       | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)    |     100.0 |     53.28% | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                 |      87.9 |     49.40% | Array, Sorting                                                    |
+| [ ]  | MEDIUM     | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)              |      87.9 |     67.37% | Array, Stack, Monotonic Stack                                     |
+| [ ]  | MEDIUM     | [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character) |      87.9 |     41.07% | Hash Table, String, Rolling Hash, Hash Function                   |
+| [ ]  | MEDIUM     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)             |      87.9 |     49.07% | Array, Binary Search                                              |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                       |      87.9 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List               |

@@ -1,0 +1,22 @@
+| Done | Difficulty | Title                                                  | Frequency | Acceptance | Topics                                           |
+| :--- | :--------- | :----------------------------------------------------- | --------: | ---------: | :----------------------------------------------- |
+| [ ]  | MEDIUM     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                      |     100.0 |     51.61% | String                                           |
+| [ ]  | MEDIUM     | [Rotate Image](https://leetcode.com/problems/rotate-image)                                           |     100.0 |     77.91% | Array, Math, Matrix                              |
+| [ ]  | MEDIUM     | [Coin Change](https://leetcode.com/problems/coin-change)                                            |      92.2 |     46.50% | Array, Dynamic Programming, Breadth-First Search |
+| [ ]  | HARD       | [Candy](https://leetcode.com/problems/candy)                                                  |      92.2 |     46.70% | Array, Greedy                                    |
+| [ ]  | EASY       | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)                                       |      81.2 |     74.33% | Array, Matrix, Simulation                        |
+| [ ]  | MEDIUM     | [Count and Say](https://leetcode.com/problems/count-and-say)                                          |      81.2 |     60.51% | String                                           |
+| [ ]  | MEDIUM     | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) |      81.2 |     61.29% | Hash Table, String, Greedy, Sorting              |
+| [ ]  | MEDIUM     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)                                           |      81.2 |     41.50% | Array, Dynamic Programming, Greedy               |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                         |      81.2 |     70.93% | Array, Hash Table, String, Sorting               |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                        |      81.2 |     49.40% | Array, Sorting                                   |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                          |      81.2 |     66.66% | Hash Table, String, Sorting                      |
+| [ ]  | MEDIUM     | [Coin Change](https://leetcode.com/problems/coin-change)                                            |      92.0 |     46.50% | Array, Dynamic Programming, Breadth-First Search |
+| [ ]  | HARD       | [Candy](https://leetcode.com/problems/candy)                                                  |      92.0 |     46.70% | Array, Greedy                                    |
+| [ ]  | EASY       | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)                                       |      80.8 |     74.33% | Array, Matrix, Simulation                        |
+| [ ]  | MEDIUM     | [Count and Say](https://leetcode.com/problems/count-and-say)                                          |      80.8 |     60.51% | String                                           |
+| [ ]  | MEDIUM     | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) |      80.8 |     61.29% | Hash Table, String, Greedy, Sorting              |
+| [ ]  | MEDIUM     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)                                           |      80.8 |     41.50% | Array, Dynamic Programming, Greedy               |
+| [ ]  | MEDIUM     | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                         |      80.8 |     70.93% | Array, Hash Table, String, Sorting               |
+| [ ]  | MEDIUM     | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                        |      80.8 |     49.40% | Array, Sorting                                   |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                          |      80.8 |     66.66% | Hash Table, String, Sorting                      |

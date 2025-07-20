@@ -1,0 +1,17 @@
+| Done | Difficulty | Title                                          | Frequency | Acceptance | Topics                                                  |
+| :--- | :--------- | :--------------------------------------------- | --------: | ---------: | :------------------------------------------------------ |
+| [ ]  | MEDIUM     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     100.0 |     36.94% | Hash Table, String, Sliding Window                      |
+| [ ]  | EASY       | [Two Sum](https://leetcode.com/problems/two-sum)                                        |     100.0 |     55.78% | Array, Hash Table                                       |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |      88.2 |     55.26% | Array, Dynamic Programming                              |
+| [ ]  | MEDIUM     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)           |      88.2 |     52.65% | Array, Binary Search                                    |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)          |      88.2 |     63.86% | Hash Table, String, Backtracking                        |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |      88.2 |     42.33% | String, Stack                                           |
+| [ ]  | EASY       | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)               |      88.2 |     45.31% | Array, Math, Sorting                                    |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                      |      88.2 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List     |
+| [ ]  | EASY       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                              |     100.0 |     42.33% | String, Stack                                           |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)          |      87.8 |     63.86% | Hash Table, String, Backtracking                        |
+| [ ]  | EASY       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                |      87.8 |     55.26% | Array, Dynamic Programming                              |
+| [ ]  | MEDIUM     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)           |      87.8 |     52.65% | Array, Binary Search                                    |
+| [ ]  | EASY       | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)               |      87.8 |     45.31% | Array, Math, Sorting                                    |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                      |      87.8 |     45.22% | Hash Table, Linked List, Design, Doubly-Linked List     |
+| [ ]  | MEDIUM     | [Word Search](https://leetcode.com/problems/word-search)                                    |      87.8 |     45.27% | Array, String, Backtracking, Depth-First Search, Matrix |

@@ -1,0 +1,19 @@
+| Done | Difficulty | Title                         | Frequency | Acceptance | Topics                                                             |
+| :--- | :--------- | :---------------------------- | --------: | ---------: | :----------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)      |     100.0 |     58.23% | Array, Hash Table, Simulation                                      |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |      70.8 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                |
+| [ ]  | MEDIUM     | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)     |      63.1 |     86.36% | Hash Table, String, Design, Hash Function                          |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |     100.0 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                |
+| [ ]  | HARD       | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)  |      74.3 |     48.17% | Hash Table, String, Design, Trie, Sorting                          |
+| [ ]  | HARD       | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor)          |      65.6 |     47.14% | Linked List, String, Stack, Design, Simulation, Doubly-Linked List |
+| [ ]  | EASY       | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) |      65.6 |     44.12% | Database                                                           |
+| [ ]  | MEDIUM     | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe)            |      65.6 |     58.60% | Array, Hash Table, Design, Matrix, Simulation                      |
+| [ ]  | MEDIUM     | [Walls and Gates](https://leetcode.com/problems/walls-and-gates)               |      65.6 |     62.97% | Array, Breadth-First Search, Matrix                                |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |      88.5 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                |
+| [ ]  | HARD       | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)  |      60.9 |     48.17% | Hash Table, String, Design, Trie, Sorting                          |
+| [ ]  | MEDIUM     | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)     |      60.9 |     86.36% | Hash Table, String, Design, Hash Function                          |
+| [ ]  | HARD       | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor)          |      53.3 |     47.14% | Linked List, String, Stack, Design, Simulation, Doubly-Linked List |
+| [ ]  | EASY       | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) |      53.3 |     44.12% | Database                                                           |
+| [ ]  | MEDIUM     | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe)            |      53.3 |     58.60% | Array, Hash Table, Design, Matrix, Simulation                      |
+| [ ]  | MEDIUM     | [Walls and Gates](https://leetcode.com/problems/walls-and-gates)               |      53.3 |     62.97% | Array, Breadth-First Search, Matrix                                |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                     |      67.1 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List                |

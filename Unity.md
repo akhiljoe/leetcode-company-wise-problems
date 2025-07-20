@@ -1,0 +1,6 @@
+| Done | Difficulty | Title                                                      | Frequency | Acceptance | Topics                                      |
+| :--- | :--------- | :--------------------------------------------------------- | --------: | ---------: | :------------------------------------------ |
+| [ ]  | MEDIUM     | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k)                    |     100.0 |     40.10% | Array, Math, Number Theory                  |
+| [ ]  | MEDIUM     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)                               |      89.8 |     54.99% | Array, Hash Table, Math, Design, Randomized |
+| [ ]  | MEDIUM     | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) |      89.8 |     62.84% | Math, String, Greedy, Game Theory           |
+| [ ]  | MEDIUM     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)                               |      89.8 |     67.78% | Array, Prefix Sum                           |

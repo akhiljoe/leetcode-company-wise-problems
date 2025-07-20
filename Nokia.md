@@ -1,0 +1,9 @@
+| Done | Difficulty | Title                                        | Frequency | Acceptance | Topics                                              |
+| :--- | :--------- | :------------------------------------------- | --------: | ---------: | :-------------------------------------------------- |
+| [ ]  | EASY       | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) |     100.0 |     62.20% | Array, Greedy, Sorting                              |
+| [ ]  | HARD       | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array)                  |      88.7 |     61.36% | Array, Math, Number Theory                          |
+| [ ]  | MEDIUM     | [LRU Cache](https://leetcode.com/problems/lru-cache)                                    |      88.3 |     45.21% | Hash Table, Linked List, Design, Doubly-Linked List |
+| [ ]  | HARD       | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array)                  |      88.3 |     61.36% | Array, Math, Number Theory                          |
+| [ ]  | MEDIUM     | [Count Primes](https://leetcode.com/problems/count-primes)                                 |      88.3 |     34.79% | Array, Math, Enumeration, Number Theory             |
+| [ ]  | EASY       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                        |      88.3 |     45.48% | String, Trie                                        |
+| [ ]  | EASY       | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                |      88.3 |     66.66% | Hash Table, String, Sorting                         |

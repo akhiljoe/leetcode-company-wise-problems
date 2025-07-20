@@ -1,0 +1,5 @@
+| Done | Difficulty | Title                                 | Frequency | Acceptance | Topics                                                                 |
+| :--- | :--------- | :------------------------------------ | --------: | ---------: | :--------------------------------------------------------------------- |
+| [ ]  | MEDIUM     | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs)            |     100.0 |     49.21% | Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      68.4 |     63.86% | Hash Table, String, Backtracking                                       |
+| [ ]  | MEDIUM     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |      66.5 |     63.86% | Hash Table, String, Backtracking                                       |

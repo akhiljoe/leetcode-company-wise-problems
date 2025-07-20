@@ -1,0 +1,4 @@
+| Done | Difficulty | Title               | Frequency | Acceptance | Topics                                                                                                        |
+| :--- | :--------- | :------------------ | --------: | ---------: | :------------------------------------------------------------------------------------------------------------ |
+| [ ]  | HARD       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |     100.0 |     65.10% | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack                                              |
+| [ ]  | MEDIUM     | [Sort an Array](https://leetcode.com/problems/sort-an-array)       |     100.0 |     56.65% | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
